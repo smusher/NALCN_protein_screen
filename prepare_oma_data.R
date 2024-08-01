@@ -2,6 +2,8 @@ library(tidyverse)
 
 ncbi_ids = read_csv("coevolution_datasets/ncbi_ranked_lineage.csv.gz")
 
+# The files to run the below code can be downloaded from https://omabrowser.org/oma/archives/All.Dec2021/ - the oma_groups.tsv corresponds to the Pairwise OMA groups in text format, and the oma_species.tsv to the Species information (Taxon IDs, scientific names, genome sources) in text format
+
 euk_species = read_tsv("coevolution_datasets/oma_species.tsv", skip = 3, col_names = c("oma_species_id", NA, "ncbi_species_id")) %>%
   select(oma_species_id, ncbi_species_id) %>%
   filter(ncbi_species_id %in% ncbi_ids$ncbi_species_id)
