@@ -1,0 +1,643 @@
+﻿GENE PRODUCT DB	GENE PRODUCT ID	SYMBOL	QUALIFIER	GO TERM	GO NAME	ECO ID	GO EVIDENCE CODE	REFERENCE	WITH/FROM	TAXON ID	ASSIGNED BY	ANNOTATION EXTENSION	GO ASPECT
+UniProtKB	A0PK11	CLRN2	involved_in	GO:0007605	sensory perception of sound	ECO:0000315	IMP	PMID:33496845		9606	UniProt		P
+UniProtKB	A2IDD5	CCDC78	involved_in	GO:0003009	skeletal muscle contraction	ECO:0000315	IMP	PMID:22818856		9606	UniProt		P
+UniProtKB	A4FU59	TMC1	involved_in	GO:0050910	detection of mechanical stimulus involved in sensory perception of sound	ECO:0000315	IMP	PMID:11850618		9606	UniProt		P
+UniProtKB	A4FUA6	TMC1	involved_in	GO:0050910	detection of mechanical stimulus involved in sensory perception of sound	ECO:0000315	IMP	PMID:11850618		9606	UniProt		P
+UniProtKB	A5D8Y1	TMC1	involved_in	GO:0050910	detection of mechanical stimulus involved in sensory perception of sound	ECO:0000315	IMP	PMID:11850618		9606	UniProt		P
+UniProtKB	A6NFK2	GRXCR2	acts_upstream_of_or_within	GO:0007605	sensory perception of sound	ECO:0000315	IMP	PMID:24619944		9606	MGI		P
+UniProtKB	A6NND4	OR2AT4	enables	GO:0004984	olfactory receptor activity	ECO:0000314	IDA	PMID:24999593		9606	UniProt		F
+UniProtKB	A6NND4	OR2AT4	enables	GO:0004984	olfactory receptor activity	ECO:0000314	IDA	PMID:30228264		9606	UniProt		F
+UniProtKB	A7XYQ1	SOBP	involved_in	GO:0050890	cognition	ECO:0000315	IMP	PMID:21035105		9606	HGNC		P
+UniProtKB	B2RTY4	MYO9A	involved_in	GO:0007601	visual perception	ECO:0000304	TAS	PMID:10409426		9606	PINC		P
+UniProtKB	O00141	SGK1	involved_in	GO:0007616	long-term memory	ECO:0000304	TAS	PMID:20530112		9606	UniProt		P
+UniProtKB	O00222	GRM8	involved_in	GO:0007601	visual perception	ECO:0000304	TAS	PMID:9473604		9606	PINC		P
+UniProtKB	O00294	TULP1	involved_in	GO:0007601	visual perception	ECO:0000304	TAS	PMID:9462750		9606	PINC		P
+UniProtKB	O00294	TULP1	involved_in	GO:0050908	detection of light stimulus involved in visual perception	ECO:0000315	IMP	PMID:15557452		9606	UniProt		P
+UniProtKB	O00295	TULP2	involved_in	GO:0007601	visual perception	ECO:0000304	TAS	PMID:9096357		9606	PINC		P
+UniProtKB	O00501	CLDN5	involved_in	GO:0007612	learning	ECO:0000304	TAS	PMID:9192844		9606	UniProt		P
+UniProtKB	O14529	CUX2	involved_in	GO:0050890	cognition	ECO:0000315	IMP	PMID:15389760		9606	UniProt		P
+UniProtKB	O14639	ABLIM1	involved_in	GO:0007601	visual perception	ECO:0000304	TAS	PMID:9245787		9606	PINC		P
+UniProtKB	O14718	RRH	involved_in	GO:0007601	visual perception	ECO:0000304	TAS	PMID:9275222		9606	PINC		P
+UniProtKB	O14926	FSCN2	involved_in	GO:0007601	visual perception	ECO:0000304	TAS	PMID:10783262		9606	PINC		P
+UniProtKB	O15265	ATXN7	involved_in	GO:0007601	visual perception	ECO:0000304	TAS	PMID:9288099		9606	PINC		P
+UniProtKB	O15303	GRM6	involved_in	GO:0050908	detection of light stimulus involved in visual perception	ECO:0000315	IMP	PMID:17405131		9606	UniProt		P
+UniProtKB	O15492	RGS16	involved_in	GO:0007601	visual perception	ECO:0000304	TAS	PMID:9469939		9606	PINC		P
+UniProtKB	O15537	RS1	involved_in	GO:0007601	visual perception	ECO:0000315	IMP	PMID:19093009		9606	UniProt		P
+UniProtKB	O43186	CRX	involved_in	GO:0007601	visual perception	ECO:0000304	TAS	PMID:9390563		9606	PINC		P
+UniProtKB	O43405	COCH	involved_in	GO:0007605	sensory perception of sound	ECO:0000304	TAS	PMID:9806553		9606	PINC		P
+UniProtKB	O43426	SYNJ1	involved_in	GO:0007612	learning	ECO:0000315	IMP	PMID:18591654		9606	ParkinsonsUK-UCL		P
+UniProtKB	O43511	SLC26A4	involved_in	GO:0007605	sensory perception of sound	ECO:0000304	TAS	PMID:10192399		9606	PINC		P
+UniProtKB	O43511	SLC26A4	involved_in	GO:0007605	sensory perception of sound	ECO:0000304	TAS	PMID:9398842		9606	PINC		P
+UniProtKB	O43603	GALR2	involved_in	GO:0007611	learning or memory	ECO:0000304	TAS	PMID:9480833		9606	PINC		P
+UniProtKB	O43623	SNAI2	involved_in	GO:0007605	sensory perception of sound	ECO:0000315	IMP	PMID:12444107		9606	BHF-UCL		P
+UniProtKB	O43924	PDE6D	involved_in	GO:0007601	visual perception	ECO:0000304	TAS	PMID:9570951		9606	PINC		P
+UniProtKB	O60313	OPA1	involved_in	GO:0007601	visual perception	ECO:0000315	IMP	PMID:11017080		9606	UniProt		P
+UniProtKB	O60443	GSDME	involved_in	GO:0007605	sensory perception of sound	ECO:0000304	TAS	PMID:9771715		9606	PINC		P
+UniProtKB	O60610	DIAPH1	involved_in	GO:0007605	sensory perception of sound	ECO:0000304	TAS	PMID:9360932		9606	PINC		P
+UniProtKB	O60755	GALR3	involved_in	GO:0007611	learning or memory	ECO:0000304	TAS	PMID:9722565		9606	PINC		P
+UniProtKB	O60765	ZNF354A	involved_in	GO:0007605	sensory perception of sound	ECO:0000304	TAS	PMID:9919311		9606	PINC		P
+UniProtKB	O60840	CACNA1F	involved_in	GO:0007601	visual perception	ECO:0000315	IMP	PMID:16505158		9606	UniProt		P
+UniProtKB	O60840	CACNA1F	involved_in	GO:0007601	visual perception	ECO:0000315	IMP	PMID:9662399		9606	UniProt		P
+UniProtKB	O60840	CACNA1F	involved_in	GO:0007601	visual perception	ECO:0000315	IMP	PMID:9662400		9606	UniProt		P
+UniProtKB	O60840	CACNA1F	involved_in	GO:0050908	detection of light stimulus involved in visual perception	ECO:0000315	IMP	PMID:7571473		9606	UniProt		P
+UniProtKB	O60907	TBL1X	involved_in	GO:0007605	sensory perception of sound	ECO:0000315	IMP	PMID:10330347		9606	UniProt		P
+UniProtKB	O60931	CTNS	involved_in	GO:0050890	cognition	ECO:0000315	IMP	PMID:17471495		9606	UniProt		P
+UniProtKB	O75083	WDR1	involved_in	GO:0007605	sensory perception of sound	ECO:0000304	TAS	PMID:10036186		9606	PINC		P
+UniProtKB	O75106	AOC2	involved_in	GO:0007601	visual perception	ECO:0000304	TAS	PMID:9119395		9606	PINC		P
+UniProtKB	O75311	GLRA3	enables	GO:0016934	extracellularly glycine-gated chloride channel activity	ECO:0000314	IDA	PMID:26416729		9606	UniProt		F
+UniProtKB	O75443	TECTA	involved_in	GO:0007605	sensory perception of sound	ECO:0000304	TAS	PMID:9590290		9606	PINC		P
+UniProtKB	O75445	USH2A	involved_in	GO:0007605	sensory perception of sound	ECO:0000315	IMP	PMID:10090909		9606	HGNC-UCL		P
+UniProtKB	O75445	USH2A	involved_in	GO:0050953	sensory perception of light stimulus	ECO:0000315	IMP	PMID:10090909		9606	HGNC-UCL		P
+UniProtKB	O75695	RP2	involved_in	GO:0007601	visual perception	ECO:0000304	TAS	PMID:9697692		9606	PINC		P
+UniProtKB	O75762	TRPA1	involved_in	GO:0019233	sensory perception of pain	ECO:0000315	IMP	PMID:20547126		9606	UniProt		P
+UniProtKB	O75828	CBR3	involved_in	GO:0050890	cognition	ECO:0000315	IMP	PMID:23227193		9606	UniProt		P
+UniProtKB	O75911	DHRS3	involved_in	GO:0007601	visual perception	ECO:0000304	TAS	PMID:9705317		9606	PINC		P
+UniProtKB	O76024	WFS1	involved_in	GO:0007601	visual perception	ECO:0000315	IMP	PMID:9771706		9606	BHF-UCL		P
+UniProtKB	O76024	WFS1	involved_in	GO:0007601	visual perception	ECO:0000315	IMP	PMID:9817917		9606	BHF-UCL		P
+UniProtKB	O76024	WFS1	involved_in	GO:0007605	sensory perception of sound	ECO:0000315	IMP	PMID:17492394		9606	BHF-UCL		P
+UniProtKB	O76024	WFS1	involved_in	GO:0050877	nervous system process	ECO:0000315	IMP	PMID:9817917		9606	BHF-UCL		P
+UniProtKB	O76027	ANXA9	enables	GO:0015464	acetylcholine receptor activity	ECO:0000314	IDA	PMID:10899159		9606	UniProt		F
+UniProtKB	O76090	BEST1	involved_in	GO:0007601	visual perception	ECO:0000304	TAS	PMID:9662395		9606	PINC		P
+UniProtKB	O95343	SIX3	involved_in	GO:0007601	visual perception	ECO:0000304	TAS	PMID:10369266		9606	PINC		P
+UniProtKB	O95371	OR2C1	enables	GO:0004984	olfactory receptor activity	ECO:0000304	TAS	PMID:9847080		9606	PINC		F
+UniProtKB	O95452	GJB6	involved_in	GO:0007605	sensory perception of sound	ECO:0000304	TAS	PMID:10610709		9606	PINC		P
+UniProtKB	O95475	SIX6	involved_in	GO:0007601	visual perception	ECO:0000304	TAS	PMID:10512683		9606	PINC		P
+UniProtKB	O95665	NTSR2	involved_in	GO:0007600	sensory perception	ECO:0000304	TAS	PMID:8795617		9606	PINC		P
+UniProtKB	O95677	EYA4	involved_in	GO:0007601	visual perception	ECO:0000304	TAS	PMID:9887327		9606	PINC		P
+UniProtKB	O95834	EML2	involved_in	GO:0007601	visual perception	ECO:0000304	TAS	PMID:10521658		9606	PINC		P
+UniProtKB	O95834	EML2	involved_in	GO:0007605	sensory perception of sound	ECO:0000304	TAS	PMID:10521658		9606	PINC		P
+UniProtKB	O95843	GUCA1C	involved_in	GO:0007601	visual perception	ECO:0000304	TAS	PMID:10037746		9606	PINC		P
+UniProtKB	O95918	OR2H2	enables	GO:0004984	olfactory receptor activity	ECO:0000304	TAS	PMID:7665158		9606	PINC		F
+UniProtKB	P01036	CST4	involved_in	GO:0001580	detection of chemical stimulus involved in sensory perception of bitter taste	ECO:0000314	IDA	PMID:24248522		9606	UniProt		P
+UniProtKB	P01037	CST1	involved_in	GO:0001580	detection of chemical stimulus involved in sensory perception of bitter taste	ECO:0000314	IDA	PMID:24248522		9606	UniProt		P
+UniProtKB	P01308	INS	involved_in	GO:0050890	cognition	ECO:0000304	TAS	PMID:19188609		9606	ARUK-UCL		P
+UniProtKB	P01375	TNF	involved_in	GO:0050890	cognition	ECO:0000304	TAS	PMID:22277195		9606	ARUK-UCL		P
+UniProtKB	P01833	PIGR	involved_in	GO:0001580	detection of chemical stimulus involved in sensory perception of bitter taste	ECO:0000314	IDA	PMID:24248522		9606	UniProt		P
+UniProtKB	P01903	HLA-DRA	involved_in	GO:0050890	cognition	ECO:0000315	IMP	PMID:23227193		9606	UniProt		P
+UniProtKB	P02452	COL1A1	involved_in	GO:0007601	visual perception	ECO:0000315	IMP	PMID:17557158		9606	UniProt		P
+UniProtKB	P02452	COL1A1	involved_in	GO:0007605	sensory perception of sound	ECO:0000315	IMP	PMID:17489845		9606	UniProt		P
+UniProtKB	P02458	COL2A1	involved_in	GO:0007601	visual perception	ECO:0000315	IMP	PMID:10486316		9606	UniProt		P
+UniProtKB	P02458	COL2A1	involved_in	GO:0007601	visual perception	ECO:0000315	IMP	PMID:16752401		9606	BHF-UCL		P
+UniProtKB	P02458	COL2A1	involved_in	GO:0007605	sensory perception of sound	ECO:0000315	IMP	PMID:16752401		9606	BHF-UCL		P
+UniProtKB	P02489	CRYAA	involved_in	GO:0007601	visual perception	ECO:0000315	IMP	PMID:14512969		9606	UniProt		P
+UniProtKB	P02489	CRYAA	involved_in	GO:0007601	visual perception	ECO:0000315	IMP	PMID:9467006		9606	UniProt		P
+UniProtKB	P02585	TNNC2	involved_in	GO:0003009	skeletal muscle contraction	ECO:0000314	IDA	PMID:17194691		9606	UniProt		P
+UniProtKB	P02585	TNNC2	involved_in	GO:0003009	skeletal muscle contraction	ECO:0000315	IMP	PMID:33755597		9606	UniProt		P
+UniProtKB	P02708	CHRNA1	enables	GO:0015464	acetylcholine receptor activity	ECO:0000304	TAS	PMID:7619526		9606	PINC		F
+UniProtKB	P02708	CHRNA1	enables	GO:0022848	acetylcholine-gated monoatomic cation-selective channel activity	ECO:0000304	TAS	PMID:7619526		9606	PINC		F
+UniProtKB	P02708	CHRNA1	enables	GO:0022848	acetylcholine-gated monoatomic cation-selective channel activity	ECO:0000315	IMP	PMID:9221765		9606	MGI		F
+UniProtKB	P02708	CHRNA1	enables	GO:1904315	transmitter-gated monoatomic ion channel activity involved in regulation of postsynaptic membrane potential	ECO:0001225	IMP	PMID:9221765		9606	SynGO	occurs_in(GO:0031594)	F
+UniProtKB	P02708	CHRNA1	enables	GO:1904315	transmitter-gated monoatomic ion channel activity involved in regulation of postsynaptic membrane potential	ECO:0006013	IDA	PMID:9221765		9606	SynGO	occurs_in(GO:0031594)	F
+UniProtKB	P02708	CHRNA1	enables	GO:1904315	transmitter-gated monoatomic ion channel activity involved in regulation of postsynaptic membrane potential	ECO:0006063	IMP	PMID:9221765		9606	SynGO	occurs_in(GO:0031594)	F
+UniProtKB	P02708	CHRNA1	enables	GO:1904315	transmitter-gated monoatomic ion channel activity involved in regulation of postsynaptic membrane potential	ECO:0007695	IDA	PMID:9221765		9606	SynGO	occurs_in(GO:0031594)	F
+UniProtKB	P02708	CHRNA1	involved_in	GO:0003009	skeletal muscle contraction	ECO:0000315	IMP	PMID:8872460		9606	BHF-UCL		P
+UniProtKB	P02708	CHRNA1	involved_in	GO:0019228	neuronal action potential	ECO:0000315	IMP	PMID:8872460		9606	BHF-UCL		P
+UniProtKB	P02708	CHRNA1	involved_in	GO:0050881	musculoskeletal movement	ECO:0000315	IMP	PMID:18252226		9606	BHF-UCL		P
+UniProtKB	P02708	CHRNA1	involved_in	GO:0050905	neuromuscular process	ECO:0000315	IMP	PMID:9546329		9606	BHF-UCL		P
+UniProtKB	P03999	OPN1SW	involved_in	GO:0007601	visual perception	ECO:0000304	TAS	PMID:9089077		9606	PINC		P
+UniProtKB	P04000	OPN1LW	involved_in	GO:0007601	visual perception	ECO:0000304	TAS	PMID:7643192		9606	PINC		P
+UniProtKB	P04001	OPN1MW	involved_in	GO:0007601	visual perception	ECO:0000304	TAS	PMID:10319869		9606	PINC		P
+UniProtKB	P04156	PRNP	involved_in	GO:0007616	long-term memory	ECO:0000304	TAS	PMID:19242475		9606	ARUK-UCL		P
+UniProtKB	P04181	OAT	involved_in	GO:0007601	visual perception	ECO:0000304	TAS	PMID:2793865		9606	PINC		P
+UniProtKB	P05067	APP	involved_in	GO:0007611	learning or memory	ECO:0000315	IMP	PMID:11880515		9606	ARUK-UCL		P
+UniProtKB	P05067	APP	involved_in	GO:0007611	learning or memory	ECO:0000315	IMP	PMID:15457210		9606	ARUK-UCL	happens_during(UBERON:0018241)	P
+UniProtKB	P05067	APP	involved_in	GO:0007612	learning	ECO:0000315	IMP	PMID:11140684		9606	ARUK-UCL		P
+UniProtKB	P05549	TFAP2A	involved_in	GO:0007605	sensory perception of sound	ECO:0000315	IMP	PMID:21204207		9606	UniProt		P
+UniProtKB	P05937	CALB1	involved_in	GO:0007614	short-term memory	ECO:0000315	IMP	PMID:22796338		9606	UniProt		P
+UniProtKB	P05937	CALB1	involved_in	GO:0007616	long-term memory	ECO:0000315	IMP	PMID:22796338		9606	UniProt		P
+UniProtKB	P06213	INSR	involved_in	GO:0007612	learning	ECO:0000304	TAS	PMID:19188609		9606	ARUK-UCL		P
+UniProtKB	P06213	INSR	involved_in	GO:0007613	memory	ECO:0000304	TAS	PMID:19188609		9606	ARUK-UCL		P
+UniProtKB	P06241	FYN	involved_in	GO:0007612	learning	ECO:0000304	TAS	PMID:1361685		9606	PINC		P
+UniProtKB	P06850	CRH	involved_in	GO:0007611	learning or memory	ECO:0000304	TAS	PMID:7477348		9606	PINC		P
+UniProtKB	P07315	CRYGC	involved_in	GO:0007601	visual perception	ECO:0000315	IMP	PMID:12011157		9606	UniProt		P
+UniProtKB	P07315	CRYGC	involved_in	GO:0007601	visual perception	ECO:0000315	IMP	PMID:18618005		9606	UniProt		P
+UniProtKB	P07320	CRYGD	involved_in	GO:0007601	visual perception	ECO:0000315	IMP	PMID:12011157		9606	UniProt		P
+UniProtKB	P07320	CRYGD	involved_in	GO:0007601	visual perception	ECO:0000315	IMP	PMID:12676897		9606	UniProt		P
+UniProtKB	P07320	CRYGD	involved_in	GO:0007601	visual perception	ECO:0000315	IMP	PMID:9927684		9606	UniProt		P
+UniProtKB	P07510	CHRNG	enables	GO:0015464	acetylcholine receptor activity	ECO:0000304	TAS	PMID:3967651		9606	PINC		F
+UniProtKB	P08172	CHRM2	enables	GO:0016907	G protein-coupled acetylcholine receptor activity	ECO:0000314	IDA	PMID:24256733		9606	UniProt		F
+UniProtKB	P08172	CHRM2	enables	GO:0016907	G protein-coupled acetylcholine receptor activity	ECO:0000304	TAS	PMID:9603968		9606	PINC		F
+UniProtKB	P08173	CHRM4	enables	GO:0016907	G protein-coupled acetylcholine receptor activity	ECO:0000304	TAS	PMID:9603968		9606	PINC		F
+UniProtKB	P08912	CHRM5	enables	GO:0016907	G protein-coupled acetylcholine receptor activity	ECO:0000304	TAS	PMID:3272174		9606	PINC		F
+UniProtKB	P09228	CST2	involved_in	GO:0001580	detection of chemical stimulus involved in sensory perception of bitter taste	ECO:0000314	IDA	PMID:24248522		9606	UniProt		P
+UniProtKB	P09758	TACSTD2	involved_in	GO:0007601	visual perception	ECO:0000304	TAS	PMID:10192395		9606	PINC		P
+UniProtKB	P0DTE4	UGT2A1	involved_in	GO:0007606	sensory perception of chemical stimulus	ECO:0000314	IDA	PMID:10359671		9606	UniProt		P
+UniProtKB	P10253	GAA	involved_in	GO:0002086	diaphragm contraction	ECO:0000315	IMP	PMID:16917947		9606	BHF-UCL		P
+UniProtKB	P10636	MAPT	involved_in	GO:0007613	memory	ECO:0000315	IMP	PMID:20655099		9606	ParkinsonsUK-UCL		P
+UniProtKB	P10745	RBP3	involved_in	GO:0007601	visual perception	ECO:0000304	TAS	PMID:2542268		9606	PINC		P
+UniProtKB	P11055	MYH3	involved_in	GO:0003009	skeletal muscle contraction	ECO:0000315	IMP	PMID:16642020		9606	BHF-UCL	occurs_in(UBERON:0000922),part_of(GO:0009790)	P
+UniProtKB	P11229	CHRM1	enables	GO:0016907	G protein-coupled acetylcholine receptor activity	ECO:0000304	TAS	PMID:9614217		9606	PINC		F
+UniProtKB	P11230	CHRNB1	contributes_to	GO:0015464	acetylcholine receptor activity	ECO:0000315	IMP	PMID:8651643		9606	UniProt		F
+UniProtKB	P11230	CHRNB1	contributes_to	GO:0015464	acetylcholine receptor activity	ECO:0000315	IMP	PMID:8872460		9606	UniProt		F
+UniProtKB	P11230	CHRNB1	enables	GO:1904315	transmitter-gated monoatomic ion channel activity involved in regulation of postsynaptic membrane potential	ECO:0001225	IMP	PMID:7531341		9606	SynGO	occurs_in(GO:0031594)	F
+UniProtKB	P11230	CHRNB1	enables	GO:1904315	transmitter-gated monoatomic ion channel activity involved in regulation of postsynaptic membrane potential	ECO:0006013	IDA	PMID:7531341		9606	SynGO	occurs_in(GO:0031594)	F
+UniProtKB	P11230	CHRNB1	enables	GO:1904315	transmitter-gated monoatomic ion channel activity involved in regulation of postsynaptic membrane potential	ECO:0006063	IMP	PMID:7531341		9606	SynGO	occurs_in(GO:0031594)	F
+UniProtKB	P11230	CHRNB1	enables	GO:1904315	transmitter-gated monoatomic ion channel activity involved in regulation of postsynaptic membrane potential	ECO:0007695	IDA	PMID:7531341		9606	SynGO	occurs_in(GO:0031594)	F
+UniProtKB	P11230	CHRNB1	involved_in	GO:0050877	nervous system process	ECO:0000315	IMP	PMID:11104662		9606	UniProt		P
+UniProtKB	P11488	GNAT1	involved_in	GO:0007601	visual perception	ECO:0000304	TAS	PMID:8673138		9606	UniProt		P
+UniProtKB	P11488	GNAT1	involved_in	GO:0050908	detection of light stimulus involved in visual perception	ECO:0000315	IMP	PMID:17584859		9606	UniProt		P
+UniProtKB	P12107	COL11A1	involved_in	GO:0007601	visual perception	ECO:0000315	IMP	PMID:10573014		9606	UniProt		P
+UniProtKB	P12107	COL11A1	involved_in	GO:0007601	visual perception	ECO:0000315	IMP	PMID:8872475		9606	UniProt		P
+UniProtKB	P12107	COL11A1	involved_in	GO:0007605	sensory perception of sound	ECO:0000315	IMP	PMID:10573014		9606	UniProt		P
+UniProtKB	P12107	COL11A1	involved_in	GO:0050910	detection of mechanical stimulus involved in sensory perception of sound	ECO:0000315	IMP	PMID:10889003		9606	UniProt		P
+UniProtKB	P12271	RLBP1	involved_in	GO:0007601	visual perception	ECO:0000304	TAS	PMID:9326942		9606	PINC		P
+UniProtKB	P12273	PIP	involved_in	GO:0001580	detection of chemical stimulus involved in sensory perception of bitter taste	ECO:0000314	IDA	PMID:24248522		9606	UniProt		P
+UniProtKB	P12883	MYH7	involved_in	GO:0003009	skeletal muscle contraction	ECO:0000315	IMP	PMID:7883988		9606	BHF-UCL	occurs_in(UBERON:0001389)	P
+UniProtKB	P13535	MYH8	involved_in	GO:0003009	skeletal muscle contraction	ECO:0000315	IMP	PMID:17041932		9606	BHF-UCL	occurs_in(UBERON:0012101),occurs_in(CL:0000188)	P
+UniProtKB	P13805	TNNT1	involved_in	GO:0003009	skeletal muscle contraction	ECO:0000315	IMP	PMID:10952871		9606	UniProt		P
+UniProtKB	P13942	COL11A2	acts_upstream_of_or_within	GO:0007605	sensory perception of sound	ECO:0000315	IMP	PMID:10581026		9606	MGI		P
+UniProtKB	P13942	COL11A2	involved_in	GO:0007605	sensory perception of sound	ECO:0000315	IMP	PMID:10677296		9606	UniProt		P
+UniProtKB	P13942	COL11A2	involved_in	GO:0007605	sensory perception of sound	ECO:0000315	IMP	PMID:16033917		9606	UniProt		P
+UniProtKB	P13942	COL11A2	involved_in	GO:0007605	sensory perception of sound	ECO:0000315	IMP	PMID:9188673		9606	UniProt		P
+UniProtKB	P14416	DRD2	enables	GO:0001591	dopamine neurotransmitter receptor activity, coupled via Gi/Go	ECO:0000314	IDA	PMID:8301582		9606	BHF-UCL		F
+UniProtKB	P14679	TYR	involved_in	GO:0007601	visual perception	ECO:0000304	TAS	PMID:7704033		9606	PINC		P
+UniProtKB	P15313	ATP6V1B1	acts_upstream_of_or_within	GO:0007605	sensory perception of sound	ECO:0000315	IMP	PMID:9916796		9606	MGI		P
+UniProtKB	P15313	ATP6V1B1	involved_in	GO:0007605	sensory perception of sound	ECO:0000315	IMP	PMID:20622307		9606	UniProt		P
+UniProtKB	P15382	KCNE1	involved_in	GO:0007605	sensory perception of sound	ECO:0000304	TAS	PMID:9020846		9606	PINC		P
+UniProtKB	P16298	PPP3CB	involved_in	GO:0007612	learning	ECO:0000304	TAS	PMID:21531385		9606	UniProt		P
+UniProtKB	P16298	PPP3CB	involved_in	GO:0007613	memory	ECO:0000304	TAS	PMID:21531385		9606	UniProt		P
+UniProtKB	P16499	PDE6A	involved_in	GO:0007601	visual perception	ECO:0000304	TAS	PMID:7493036		9606	PINC		P
+UniProtKB	P17787	CHRNB2	enables	GO:0015464	acetylcholine receptor activity	ECO:0000314	IDA	PMID:8906617		9606	UniProt		F
+UniProtKB	P17787	CHRNB2	enables	GO:0022848	acetylcholine-gated monoatomic cation-selective channel activity	ECO:0000314	IDA	PMID:18387948		9606	UniProt		F
+UniProtKB	P17787	CHRNB2	enables	GO:0022848	acetylcholine-gated monoatomic cation-selective channel activity	ECO:0000304	TAS	PMID:20438829		9606	DFLAT		F
+UniProtKB	P17787	CHRNB2	enables	GO:0022848	acetylcholine-gated monoatomic cation-selective channel activity	ECO:0000314	IDA	PMID:8906617		9606	UniProt		F
+UniProtKB	P17787	CHRNB2	involved_in	GO:0007612	learning	ECO:0000315	IMP	PMID:15964197		9606	UniProt		P
+UniProtKB	P17787	CHRNB2	involved_in	GO:0007613	memory	ECO:0000315	IMP	PMID:15964197		9606	UniProt		P
+UniProtKB	P17787	CHRNB2	involved_in	GO:0008542	visual learning	ECO:0000315	IMP	PMID:15964197		9606	UniProt		P
+UniProtKB	P17787	CHRNB2	involved_in	GO:0050877	nervous system process	ECO:0000315	IMP	PMID:17900292		9606	UniProt		P
+UniProtKB	P17787	CHRNB2	involved_in	GO:0050890	cognition	ECO:0000315	IMP	PMID:17559419		9606	UniProt		P
+UniProtKB	P18545	PDE6G	involved_in	GO:0007601	visual perception	ECO:0000304	TAS	PMID:7828894		9606	PINC		P
+UniProtKB	P18850	ATF6	involved_in	GO:0007601	visual perception	ECO:0000315	IMP	PMID:26029869		9606	UniProt		P
+UniProtKB	P18887	XRCC1	involved_in	GO:0050882	voluntary musculoskeletal movement	ECO:0000315	IMP	PMID:28002403		9606	UniProt		P
+UniProtKB	P19087	GNAT2	involved_in	GO:0050908	detection of light stimulus involved in visual perception	ECO:0000315	IMP	PMID:12077706		9606	UniProt		P
+UniProtKB	P20309	CHRM3	enables	GO:0016907	G protein-coupled acetylcholine receptor activity	ECO:0000304	TAS	PMID:9547368		9606	PINC		F
+UniProtKB	P21359	NF1	involved_in	GO:0050890	cognition	ECO:0000315	IMP	PMID:17299016		9606	HGNC-UCL		P
+UniProtKB	P21728	DRD1	enables	GO:0001588	dopamine neurotransmitter receptor activity, coupled via Gs	ECO:0000315	IMP	PMID:1282671		9606	BHF-UCL		F
+UniProtKB	P21728	DRD1	enables	GO:0001588	dopamine neurotransmitter receptor activity, coupled via Gs	ECO:0000314	IDA	PMID:2144334		9606	BHF-UCL		F
+UniProtKB	P21728	DRD1	enables	GO:0001588	dopamine neurotransmitter receptor activity, coupled via Gs	ECO:0000314	IDA	PMID:2168520		9606	BHF-UCL		F
+UniProtKB	P21728	DRD1	enables	GO:0001588	dopamine neurotransmitter receptor activity, coupled via Gs	ECO:0000315	IMP	PMID:7838121		9606	BHF-UCL		F
+UniProtKB	P21728	DRD1	enables	GO:0004952	dopamine neurotransmitter receptor activity	ECO:0000314	IDA	PMID:1831904		9606	MGI		F
+UniProtKB	P21730	C5AR1	involved_in	GO:0007606	sensory perception of chemical stimulus	ECO:0000304	TAS	PMID:9590258		9606	PINC		P
+UniProtKB	P21917	DRD4	enables	GO:0001591	dopamine neurotransmitter receptor activity, coupled via Gi/Go	ECO:0000314	IDA	PMID:1840645		9606	BHF-UCL		F
+UniProtKB	P21917	DRD4	enables	GO:0001591	dopamine neurotransmitter receptor activity, coupled via Gi/Go	ECO:0000315	IMP	PMID:27659709		9606	UniProt		F
+UniProtKB	P21917	DRD4	enables	GO:0001591	dopamine neurotransmitter receptor activity, coupled via Gi/Go	ECO:0000314	IDA	PMID:9003072		9606	UniProt		F
+UniProtKB	P21917	DRD4	enables	GO:0004952	dopamine neurotransmitter receptor activity	ECO:0000314	IDA	PMID:8413587		9606	BHF-UCL		F
+UniProtKB	P21918	DRD5	enables	GO:0001588	dopamine neurotransmitter receptor activity, coupled via Gs	ECO:0000304	TAS	PMID:9457173		9606	BHF-UCL		F
+UniProtKB	P21918	DRD5	enables	GO:0004952	dopamine neurotransmitter receptor activity	ECO:0000314	IDA	PMID:1826762		9606	UniProt		F
+UniProtKB	P22079	LPO	involved_in	GO:0001580	detection of chemical stimulus involved in sensory perception of bitter taste	ECO:0000314	IDA	PMID:24248522		9606	UniProt		P
+UniProtKB	P22888	LHCGR	involved_in	GO:0050890	cognition	ECO:0000315	IMP	PMID:23227193		9606	UniProt		P
+UniProtKB	P23280	CA6	involved_in	GO:0001580	detection of chemical stimulus involved in sensory perception of bitter taste	ECO:0000314	IDA	PMID:24248522		9606	UniProt		P
+UniProtKB	P23415	GLRA1	acts_upstream_of_or_within	GO:0001964	startle response	ECO:0000315	IMP	PMID:8298642		9606	MGI		P
+UniProtKB	P23415	GLRA1	enables	GO:0016934	extracellularly glycine-gated chloride channel activity	ECO:0000314	IDA	PMID:16144831		9606	UniProt		F
+UniProtKB	P23415	GLRA1	enables	GO:0016934	extracellularly glycine-gated chloride channel activity	ECO:0000314	IDA	PMID:2155780		9606	UniProt		F
+UniProtKB	P23415	GLRA1	enables	GO:0016934	extracellularly glycine-gated chloride channel activity	ECO:0000315	IMP	PMID:7920629		9606	MGI		F
+UniProtKB	P23415	GLRA1	enables	GO:0016934	extracellularly glycine-gated chloride channel activity	ECO:0000314	IDA	PMID:8137830		9606	UniProt		F
+UniProtKB	P23415	GLRA1	involved_in	GO:0001964	startle response	ECO:0000315	IMP	PMID:11973623		9606	UniProt		P
+UniProtKB	P23415	GLRA1	involved_in	GO:0001964	startle response	ECO:0000315	IMP	PMID:8298642		9606	UniProt		P
+UniProtKB	P23416	GLRA2	enables	GO:0016934	extracellularly glycine-gated chloride channel activity	ECO:0000314	IDA	PMID:2155780		9606	UniProt		F
+UniProtKB	P23760	PAX3	involved_in	GO:0007605	sensory perception of sound	ECO:0000304	TAS	PMID:9500554		9606	PINC		P
+UniProtKB	P23942	PRPH2	involved_in	GO:0007601	visual perception	ECO:0000304	TAS	PMID:1749427		9606	PINC		P
+UniProtKB	P24386	CHM	involved_in	GO:0007601	visual perception	ECO:0000304	TAS	PMID:7981670		9606	PINC		P
+UniProtKB	P24387	CRHBP	involved_in	GO:0007611	learning or memory	ECO:0000304	TAS	PMID:7477348		9606	UniProt		P
+UniProtKB	P25311	AZGP1	involved_in	GO:0001580	detection of chemical stimulus involved in sensory perception of bitter taste	ECO:0000314	IDA	PMID:24248522		9606	UniProt		P
+UniProtKB	P26367	PAX6	involved_in	GO:0007601	visual perception	ECO:0000304	TAS	PMID:10441571		9606	PINC		P
+UniProtKB	P26998	CRYBB3	involved_in	GO:0007601	visual perception	ECO:0000304	TAS	PMID:8999933		9606	PINC		P
+UniProtKB	P29274	ADORA2A	involved_in	GO:0007600	sensory perception	ECO:0000304	TAS	PMID:9262401		9606	PINC		P
+UniProtKB	P29973	CNGA1	involved_in	GO:0007601	visual perception	ECO:0000304	TAS	PMID:7479749		9606	PINC		P
+UniProtKB	P30532	CHRNA5	enables	GO:0015464	acetylcholine receptor activity	ECO:0000314	IDA	PMID:1542648		9606	UniProt		F
+UniProtKB	P30532	CHRNA5	enables	GO:0022848	acetylcholine-gated monoatomic cation-selective channel activity	ECO:0000304	TAS	PMID:20438829		9606	DFLAT		F
+UniProtKB	P30793	GCH1	acts_upstream_of_or_within	GO:0050884	neuromuscular process controlling posture	ECO:0000315	IMP	PMID:7874165		9606	MGI		P
+UniProtKB	P30926	CHRNB4	enables	GO:0015464	acetylcholine receptor activity	ECO:0000314	IDA	PMID:8906617		9606	UniProt		F
+UniProtKB	P30926	CHRNB4	enables	GO:0022848	acetylcholine-gated monoatomic cation-selective channel activity	ECO:0000304	TAS	PMID:11742001		9606	UniProt		F
+UniProtKB	P30926	CHRNB4	enables	GO:0022848	acetylcholine-gated monoatomic cation-selective channel activity	ECO:0000314	IDA	PMID:18387948		9606	UniProt		F
+UniProtKB	P30926	CHRNB4	enables	GO:0022848	acetylcholine-gated monoatomic cation-selective channel activity	ECO:0000304	TAS	PMID:20438829		9606	DFLAT		F
+UniProtKB	P30926	CHRNB4	enables	GO:0022848	acetylcholine-gated monoatomic cation-selective channel activity	ECO:0000304	TAS	PMID:8906617		9606	UniProt		F
+UniProtKB	P30954	OR10J1	involved_in	GO:0007606	sensory perception of chemical stimulus	ECO:0000304	TAS	PMID:1370859		9606	PINC		P
+UniProtKB	P32297	CHRNA3	enables	GO:0015464	acetylcholine receptor activity	ECO:0000314	IDA	PMID:8906617		9606	UniProt		F
+UniProtKB	P32297	CHRNA3	enables	GO:0022848	acetylcholine-gated monoatomic cation-selective channel activity	ECO:0000304	TAS	PMID:20438829		9606	DFLAT		F
+UniProtKB	P32297	CHRNA3	enables	GO:0022848	acetylcholine-gated monoatomic cation-selective channel activity	ECO:0000314	IDA	PMID:8906617		9606	UniProt		F
+UniProtKB	P34982	OR1D2	enables	GO:0004984	olfactory receptor activity	ECO:0000314	IDA	PMID:12663925		9606	UniProt		F
+UniProtKB	P34982	OR1D2	involved_in	GO:0007608	sensory perception of smell	ECO:0000304	TAS	PMID:8097991		9606	PINC		P
+UniProtKB	P35237	SERPINB6	involved_in	GO:0007605	sensory perception of sound	ECO:0000315	IMP	PMID:20451170		9606	UniProt		P
+UniProtKB	P35243	RCVRN	involved_in	GO:0007601	visual perception	ECO:0000304	TAS	PMID:1672047		9606	PINC		P
+UniProtKB	P35462	DRD3	enables	GO:0001591	dopamine neurotransmitter receptor activity, coupled via Gi/Go	ECO:0000314	IDA	PMID:8301582		9606	BHF-UCL		F
+UniProtKB	P35462	DRD3	involved_in	GO:0060134	prepulse inhibition	ECO:0000315	IMP	PMID:18325483		9606	BHF-UCL		P
+UniProtKB	P35913	PDE6B	involved_in	GO:0007601	visual perception	ECO:0000304	TAS	PMID:8394174		9606	PINC		P
+UniProtKB	P36544	CHRNA7	enables	GO:0015464	acetylcholine receptor activity	ECO:0000314	IDA	PMID:8906617		9606	UniProt		F
+UniProtKB	P36544	CHRNA7	enables	GO:0022848	acetylcholine-gated monoatomic cation-selective channel activity	ECO:0000314	IDA	PMID:12508119		9606	MGI		F
+UniProtKB	P36544	CHRNA7	enables	GO:0022848	acetylcholine-gated monoatomic cation-selective channel activity	ECO:0000314	IDA	PMID:18387948		9606	UniProt		F
+UniProtKB	P36544	CHRNA7	enables	GO:0022848	acetylcholine-gated monoatomic cation-selective channel activity	ECO:0000314	IDA	PMID:21718690		9606	ParkinsonsUK-UCL		F
+UniProtKB	P36544	CHRNA7	enables	GO:0022848	acetylcholine-gated monoatomic cation-selective channel activity	ECO:0000314	IDA	PMID:8145738		9606	UniProt		F
+UniProtKB	P36544	CHRNA7	enables	GO:0022848	acetylcholine-gated monoatomic cation-selective channel activity	ECO:0000314	IDA	PMID:8906617		9606	UniProt		F
+UniProtKB	P36544	CHRNA7	involved_in	GO:0050890	cognition	ECO:0000315	IMP	PMID:16754836		9606	UniProt		P
+UniProtKB	P36575	ARR3	involved_in	GO:0007601	visual perception	ECO:0000304	TAS	PMID:8224247		9606	PINC		P
+UniProtKB	P39060	COL18A1	involved_in	GO:0007601	visual perception	ECO:0000304	TAS	PMID:10942434		9606	PINC		P
+UniProtKB	P40145	ADCY8	involved_in	GO:0007611	learning or memory	ECO:0000304	TAS	PMID:8076676		9606	PINC		P
+UniProtKB	P41145	OPRK1	involved_in	GO:0007600	sensory perception	ECO:0000304	TAS	PMID:7624359		9606	PINC		P
+UniProtKB	P41146	OPRL1	involved_in	GO:0007600	sensory perception	ECO:0000304	TAS	PMID:7566152		9606	PINC		P
+UniProtKB	P41594	GRM5	involved_in	GO:0050890	cognition	ECO:0000315	IMP	PMID:23227193		9606	UniProt		P
+UniProtKB	P42858	HTT	involved_in	GO:0042297	vocal learning	ECO:0000315	IMP	PMID:26436900		9606	AgBase	occurs_in(UBERON:0035807)	P
+UniProtKB	P43007	SLC1A4	involved_in	GO:0050890	cognition	ECO:0000315	IMP	PMID:16897601		9606	UniProt		P
+UniProtKB	P43034	PAFAH1B1	involved_in	GO:0050885	neuromuscular process controlling balance	ECO:0000315	IMP	PMID:9063735		9606	BHF-UCL		P
+UniProtKB	P43080	GUCA1A	involved_in	GO:0007601	visual perception	ECO:0000304	TAS	PMID:9425234		9606	PINC		P
+UniProtKB	P43320	CRYBB2	involved_in	GO:0007601	visual perception	ECO:0000304	TAS	PMID:9158139		9606	PINC		P
+UniProtKB	P43681	CHRNA4	enables	GO:0015464	acetylcholine receptor activity	ECO:0000314	IDA	PMID:8906617		9606	UniProt		F
+UniProtKB	P43681	CHRNA4	enables	GO:0022848	acetylcholine-gated monoatomic cation-selective channel activity	ECO:0000304	TAS	PMID:20438829		9606	DFLAT		F
+UniProtKB	P43681	CHRNA4	enables	GO:0022848	acetylcholine-gated monoatomic cation-selective channel activity	ECO:0000314	IDA	PMID:8906617		9606	UniProt		F
+UniProtKB	P43681	CHRNA4	involved_in	GO:0050877	nervous system process	ECO:0000315	IMP	PMID:17613539		9606	UniProt		P
+UniProtKB	P43681	CHRNA4	involved_in	GO:0050877	nervous system process	ECO:0000315	IMP	PMID:7550350		9606	UniProt		P
+UniProtKB	P43681	CHRNA4	involved_in	GO:0050890	cognition	ECO:0000315	IMP	PMID:14623738		9606	UniProt		P
+UniProtKB	P45378	TNNT3	involved_in	GO:0003009	skeletal muscle contraction	ECO:0000314	IDA	PMID:17194691		9606	UniProt		P
+UniProtKB	P47804	RGR	involved_in	GO:0007601	visual perception	ECO:0000304	TAS	PMID:8641686		9606	PINC		P
+UniProtKB	P47869	GABRA2	enables	GO:1904315	transmitter-gated monoatomic ion channel activity involved in regulation of postsynaptic membrane potential	ECO:0006013	IDA	PMID:22711532		9606	SynGO		F
+UniProtKB	P47869	GABRA2	enables	GO:1904315	transmitter-gated monoatomic ion channel activity involved in regulation of postsynaptic membrane potential	ECO:0006063	IMP	PMID:22711532		9606	SynGO		F
+UniProtKB	P47869	GABRA2	enables	GO:1904315	transmitter-gated monoatomic ion channel activity involved in regulation of postsynaptic membrane potential	ECO:0007695	IDA	PMID:22711532		9606	SynGO		F
+UniProtKB	P47874	OMP	involved_in	GO:0007608	sensory perception of smell	ECO:0000304	TAS	PMID:8790421		9606	PINC		P
+UniProtKB	P47881	OR3A1	enables	GO:0004984	olfactory receptor activity	ECO:0000304	TAS	PMID:8647456		9606	PINC		F
+UniProtKB	P47884	OR1D4	involved_in	GO:0007606	sensory perception of chemical stimulus	ECO:0000304	TAS	PMID:8004088		9606	PINC		P
+UniProtKB	P47887	OR1E2	involved_in	GO:0007606	sensory perception of chemical stimulus	ECO:0000304	TAS	PMID:8004088		9606	PINC		P
+UniProtKB	P47893	OR3A2	involved_in	GO:0007606	sensory perception of chemical stimulus	ECO:0000304	TAS	PMID:8921386		9606	PINC		P
+UniProtKB	P48167	GLRB	contributes_to	GO:0016934	extracellularly glycine-gated chloride channel activity	ECO:0000314	IDA	PMID:8717357		9606	UniProt		F
+UniProtKB	P48167	GLRB	enables	GO:0016933	extracellularly glycine-gated ion channel activity	ECO:0000315	IMP	PMID:11929858		9606	UniProt		F
+UniProtKB	P48167	GLRB	involved_in	GO:0001964	startle response	ECO:0000315	IMP	PMID:11929858		9606	UniProt		P
+UniProtKB	P48788	TNNI2	involved_in	GO:0003009	skeletal muscle contraction	ECO:0000314	IDA	PMID:17194691		9606	UniProt		P
+UniProtKB	P49335	POU3F4	involved_in	GO:0007605	sensory perception of sound	ECO:0000304	TAS	PMID:7839145		9606	PINC		P
+UniProtKB	P49419	ALDH7A1	involved_in	GO:0007605	sensory perception of sound	ECO:0000304	TAS	PMID:9417906		9606	PINC		P
+UniProtKB	P49639	HOXA1	involved_in	GO:0007605	sensory perception of sound	ECO:0000314	IDA	PMID:16155570		9606	DFLAT		P
+UniProtKB	P49639	HOXA1	involved_in	GO:0050890	cognition	ECO:0000314	IDA	PMID:16155570		9606	DFLAT		P
+UniProtKB	P49639	HOXA1	involved_in	GO:0050905	neuromuscular process	ECO:0000314	IDA	PMID:16155570		9606	DFLAT		P
+UniProtKB	P50440	GATM	involved_in	GO:0007611	learning or memory	ECO:0000315	IMP	PMID:26490222		9606	CAFA		P
+UniProtKB	P51160	PDE6C	involved_in	GO:0007601	visual perception	ECO:0000304	TAS	PMID:8641425		9606	PINC		P
+UniProtKB	P51575	P2RX1	enables	GO:0004931	extracellularly ATP-gated monoatomic cation channel activity	ECO:0000314	IDA	PMID:8961184		9606	UniProt		F
+UniProtKB	P51575	P2RX1	enables	GO:0004931	extracellularly ATP-gated monoatomic cation channel activity	ECO:0000304	TAS	PMID:9565569		9606	PINC		F
+UniProtKB	P51787	KCNQ1	involved_in	GO:0007605	sensory perception of sound	ECO:0000304	TAS	PMID:9020846		9606	PINC		P
+UniProtKB	P51810	GPR143	involved_in	GO:0007601	visual perception	ECO:0000304	TAS	PMID:7647783		9606	PINC		P
+UniProtKB	P51841	GUCY2F	involved_in	GO:0007601	visual perception	ECO:0000304	TAS	PMID:7777544		9606	PINC		P
+UniProtKB	P51884	LUM	involved_in	GO:0007601	visual perception	ECO:0000304	TAS	PMID:10802664		9606	PINC		P
+UniProtKB	P53611	RABGGTB	involved_in	GO:0007601	visual perception	ECO:0000304	TAS	PMID:8380507		9606	PINC		P
+UniProtKB	P53673	CRYBA4	involved_in	GO:0007601	visual perception	ECO:0000315	IMP	PMID:16960806		9606	UniProt		P
+UniProtKB	P53674	CRYBB1	involved_in	GO:0007601	visual perception	ECO:0000304	TAS	PMID:8626774		9606	PINC		P
+UniProtKB	P54845	NRL	involved_in	GO:0007601	visual perception	ECO:0000304	TAS	PMID:1729696		9606	PINC		P
+UniProtKB	P56373	P2RX3	enables	GO:0004931	extracellularly ATP-gated monoatomic cation channel activity	ECO:0000314	IDA	PMID:27626375		9606	UniProt		F
+UniProtKB	P56373	P2RX3	enables	GO:0004931	extracellularly ATP-gated monoatomic cation channel activity	ECO:0000304	TAS	PMID:9221902		9606	PINC		F
+UniProtKB	P56696	KCNQ4	involved_in	GO:0007605	sensory perception of sound	ECO:0000304	TAS	PMID:10025409		9606	PINC		P
+UniProtKB	P56715	RP1	involved_in	GO:0007601	visual perception	ECO:0000304	TAS	PMID:10391211		9606	PINC		P
+UniProtKB	P57796	CABP4	involved_in	GO:0007601	visual perception	ECO:0000315	IMP	PMID:16960802		9606	UniProt		P
+UniProtKB	P58170	OR1D5	enables	GO:0004984	olfactory receptor activity	ECO:0000304	TAS	PMID:1315913		9606	PINC		F
+UniProtKB	P58170	OR1D5	involved_in	GO:0007608	sensory perception of smell	ECO:0000304	TAS	PMID:1315913		9606	PINC		P
+UniProtKB	P58400	NRXN1	involved_in	GO:0007612	learning	ECO:0000315	IMP	PMID:17034946		9606	BHF-UCL		P
+UniProtKB	P58418	CLRN1	involved_in	GO:0007605	sensory perception of sound	ECO:0000315	IMP	PMID:15650299		9606	HGNC-UCL		P
+UniProtKB	P58418	CLRN1	involved_in	GO:0050953	sensory perception of light stimulus	ECO:0000315	IMP	PMID:15521980		9606	HGNC-UCL		P
+UniProtKB	P58418	CLRN1	involved_in	GO:0050957	equilibrioception	ECO:0000315	IMP	PMID:15521980		9606	HGNC-UCL		P
+UniProtKB	P58743	SLC26A5	involved_in	GO:0007605	sensory perception of sound	ECO:0000315	IMP	PMID:12719379		9606	UniProt		P
+UniProtKB	P59533	TAS2R38	enables	GO:0033038	bitter taste receptor activity	ECO:0000314	IDA	PMID:20022913		9606	UniProt		F
+UniProtKB	P59533	TAS2R38	involved_in	GO:0001580	detection of chemical stimulus involved in sensory perception of bitter taste	ECO:0000314	IDA	PMID:20022913		9606	UniProt		P
+UniProtKB	P59534	TAS2R39	enables	GO:0033038	bitter taste receptor activity	ECO:0000314	IDA	PMID:20022913		9606	UniProt		F
+UniProtKB	P59534	TAS2R39	involved_in	GO:0001580	detection of chemical stimulus involved in sensory perception of bitter taste	ECO:0000314	IDA	PMID:20022913		9606	UniProt		P
+UniProtKB	P59535	TAS2R40	enables	GO:0033038	bitter taste receptor activity	ECO:0000314	IDA	PMID:20022913		9606	UniProt		F
+UniProtKB	P59535	TAS2R40	involved_in	GO:0001580	detection of chemical stimulus involved in sensory perception of bitter taste	ECO:0000314	IDA	PMID:20022913		9606	UniProt		P
+UniProtKB	P59536	TAS2R41	NOT|enables	GO:0033038	bitter taste receptor activity	ECO:0000314	IDA	PMID:20022913		9606	UniProt		F
+UniProtKB	P59536	TAS2R41	NOT|involved_in	GO:0001580	detection of chemical stimulus involved in sensory perception of bitter taste	ECO:0000314	IDA	PMID:20022913		9606	UniProt		P
+UniProtKB	P59537	TAS2R43	enables	GO:0008527	taste receptor activity	ECO:0000314	IDA	PMID:16720576		9606	HGNC-UCL		F
+UniProtKB	P59537	TAS2R43	enables	GO:0033038	bitter taste receptor activity	ECO:0000314	IDA	PMID:16720576		9606	HGNC-UCL		F
+UniProtKB	P59537	TAS2R43	enables	GO:0033038	bitter taste receptor activity	ECO:0000314	IDA	PMID:20022913		9606	UniProt		F
+UniProtKB	P59537	TAS2R43	involved_in	GO:0001580	detection of chemical stimulus involved in sensory perception of bitter taste	ECO:0000314	IDA	PMID:16720576		9606	HGNC-UCL		P
+UniProtKB	P59537	TAS2R43	involved_in	GO:0001580	detection of chemical stimulus involved in sensory perception of bitter taste	ECO:0000314	IDA	PMID:20022913		9606	UniProt		P
+UniProtKB	P59538	TAS2R31	enables	GO:0033038	bitter taste receptor activity	ECO:0000314	IDA	PMID:20022913		9606	UniProt		F
+UniProtKB	P59538	TAS2R31	involved_in	GO:0001580	detection of chemical stimulus involved in sensory perception of bitter taste	ECO:0000314	IDA	PMID:20022913		9606	UniProt		P
+UniProtKB	P59539	TAS2R45	NOT|enables	GO:0033038	bitter taste receptor activity	ECO:0000314	IDA	PMID:20022913		9606	UniProt		F
+UniProtKB	P59539	TAS2R45	NOT|involved_in	GO:0001580	detection of chemical stimulus involved in sensory perception of bitter taste	ECO:0000314	IDA	PMID:20022913		9606	UniProt		P
+UniProtKB	P59540	TAS2R46	enables	GO:0033038	bitter taste receptor activity	ECO:0000314	IDA	PMID:20022913		9606	UniProt		F
+UniProtKB	P59540	TAS2R46	involved_in	GO:0001580	detection of chemical stimulus involved in sensory perception of bitter taste	ECO:0000314	IDA	PMID:20022913		9606	UniProt		P
+UniProtKB	P59541	TAS2R30	enables	GO:0033038	bitter taste receptor activity	ECO:0000314	IDA	PMID:20022913		9606	UniProt		F
+UniProtKB	P59541	TAS2R30	involved_in	GO:0001580	detection of chemical stimulus involved in sensory perception of bitter taste	ECO:0000314	IDA	PMID:20022913		9606	UniProt		P
+UniProtKB	P59542	TAS2R19	NOT|enables	GO:0033038	bitter taste receptor activity	ECO:0000314	IDA	PMID:20022913		9606	UniProt		F
+UniProtKB	P59542	TAS2R19	NOT|involved_in	GO:0001580	detection of chemical stimulus involved in sensory perception of bitter taste	ECO:0000314	IDA	PMID:20022913		9606	UniProt		P
+UniProtKB	P59544	TAS2R50	enables	GO:0033038	bitter taste receptor activity	ECO:0000314	IDA	PMID:20022913		9606	UniProt		F
+UniProtKB	P59544	TAS2R50	involved_in	GO:0001580	detection of chemical stimulus involved in sensory perception of bitter taste	ECO:0000314	IDA	PMID:20022913		9606	UniProt		P
+UniProtKB	P59551	TAS2R60	NOT|enables	GO:0033038	bitter taste receptor activity	ECO:0000314	IDA	PMID:20022913		9606	UniProt		F
+UniProtKB	P59551	TAS2R60	NOT|involved_in	GO:0001580	detection of chemical stimulus involved in sensory perception of bitter taste	ECO:0000314	IDA	PMID:20022913		9606	UniProt		P
+UniProtKB	P61769	B2M	involved_in	GO:0007611	learning or memory	ECO:0000314	IDA	PMID:26147761		9606	ARUK-UCL	occurs_in(UBERON:0002421)	P
+UniProtKB	P62072	TIMM10	involved_in	GO:0007605	sensory perception of sound	ECO:0000304	TAS	PMID:10552927		9606	UniProt		P
+UniProtKB	P63092	GNAS	involved_in	GO:0007608	sensory perception of smell	ECO:0000304	TAS	PMID:3018580		9606	UniProt		P
+UniProtKB	P63092	GNAS	involved_in	GO:0050890	cognition	ECO:0000314	IDA	PMID:12719376		9606	UniProt		P
+UniProtKB	P78348	ASIC1	involved_in	GO:0050915	sensory perception of sour taste	ECO:0000315	IMP	PMID:19812697		9606	UniProt		P
+UniProtKB	P78352	DLG4	involved_in	GO:0007612	learning	ECO:0000304	TAS	PMID:9853749		9606	PINC		P
+UniProtKB	P78363	ABCA4	involved_in	GO:0007601	visual perception	ECO:0000304	TAS	PMID:9425888		9606	PINC		P
+UniProtKB	P78424	POU6F2	involved_in	GO:0007601	visual perception	ECO:0000304	TAS	PMID:8601806		9606	PINC		P
+UniProtKB	P84996	GNAS	involved_in	GO:0050890	cognition	ECO:0000315	IMP	PMID:12719376		9606	UniProt		P
+UniProtKB	P98153	DGCR2	involved_in	GO:0050890	cognition	ECO:0000315	IMP	PMID:23227193		9606	UniProt		P
+UniProtKB	P98155	VLDLR	involved_in	GO:0007613	memory	ECO:0000304	TAS	PMID:7550352		9606	PINC		P
+UniProtKB	Q00169	PITPNA	involved_in	GO:0007601	visual perception	ECO:0000304	TAS	PMID:7914867		9606	PINC		P
+UniProtKB	Q00604	NDP	involved_in	GO:0007601	visual perception	ECO:0000304	TAS	PMID:10484772		9606	PINC		P
+UniProtKB	Q01668	CACNA1D	involved_in	GO:0007605	sensory perception of sound	ECO:0000315	IMP	PMID:21131953		9606	BHF-UCL		P
+UniProtKB	Q01814	ATP2B2	involved_in	GO:0007605	sensory perception of sound	ECO:0000315	IMP	PMID:15829536		9606	UniProt		P
+UniProtKB	Q01814	ATP2B2	involved_in	GO:0007605	sensory perception of sound	ECO:0000315	IMP	PMID:17234811		9606	DFLAT		P
+UniProtKB	Q01955	COL4A3	involved_in	GO:0007605	sensory perception of sound	ECO:0000304	TAS	PMID:7987396		9606	PINC		P
+UniProtKB	Q01973	ROR1	involved_in	GO:0007605	sensory perception of sound	ECO:0000315	IMP	PMID:27162350		9606	UniProt		P
+UniProtKB	Q02846	GUCY2D	involved_in	GO:0007601	visual perception	ECO:0000304	TAS	PMID:9888789		9606	PINC		P
+UniProtKB	Q02962	PAX2	involved_in	GO:0007601	visual perception	ECO:0000304	TAS	PMID:9106533		9606	PINC		P
+UniProtKB	Q03395	ROM1	involved_in	GO:0007601	visual perception	ECO:0000304	TAS	PMID:1610568		9606	PINC		P
+UniProtKB	Q04844	CHRNE	enables	GO:0015464	acetylcholine receptor activity	ECO:0000304	TAS	PMID:8872460		9606	PINC		F
+UniProtKB	Q04844	CHRNE	enables	GO:0022848	acetylcholine-gated monoatomic cation-selective channel activity	ECO:0000304	TAS	PMID:7531341		9606	PINC		F
+UniProtKB	Q04844	CHRNE	enables	GO:1904315	transmitter-gated monoatomic ion channel activity involved in regulation of postsynaptic membrane potential	ECO:0001225	IMP	PMID:7531341		9606	SynGO	occurs_in(GO:0031594)	F
+UniProtKB	Q04844	CHRNE	enables	GO:1904315	transmitter-gated monoatomic ion channel activity involved in regulation of postsynaptic membrane potential	ECO:0006013	IDA	PMID:7531341		9606	SynGO	occurs_in(GO:0031594)	F
+UniProtKB	Q04844	CHRNE	enables	GO:1904315	transmitter-gated monoatomic ion channel activity involved in regulation of postsynaptic membrane potential	ECO:0006063	IMP	PMID:7531341		9606	SynGO	occurs_in(GO:0031594)	F
+UniProtKB	Q04844	CHRNE	enables	GO:1904315	transmitter-gated monoatomic ion channel activity involved in regulation of postsynaptic membrane potential	ECO:0007695	IDA	PMID:7531341		9606	SynGO	occurs_in(GO:0031594)	F
+UniProtKB	Q05901	CHRNB3	enables	GO:0022848	acetylcholine-gated monoatomic cation-selective channel activity	ECO:0000304	TAS	PMID:7690916		9606	PINC		F
+UniProtKB	Q07001	CHRND	enables	GO:0022848	acetylcholine-gated monoatomic cation-selective channel activity	ECO:0000304	TAS	PMID:8872460		9606	PINC		F
+UniProtKB	Q07001	CHRND	enables	GO:1904315	transmitter-gated monoatomic ion channel activity involved in regulation of postsynaptic membrane potential	ECO:0001225	IMP	PMID:11435464		9606	SynGO	occurs_in(GO:0031594)	F
+UniProtKB	Q07001	CHRND	enables	GO:1904315	transmitter-gated monoatomic ion channel activity involved in regulation of postsynaptic membrane potential	ECO:0006013	IDA	PMID:11435464		9606	SynGO	occurs_in(GO:0031594)	F
+UniProtKB	Q07001	CHRND	enables	GO:1904315	transmitter-gated monoatomic ion channel activity involved in regulation of postsynaptic membrane potential	ECO:0006063	IMP	PMID:11435464		9606	SynGO	occurs_in(GO:0031594)	F
+UniProtKB	Q07001	CHRND	enables	GO:1904315	transmitter-gated monoatomic ion channel activity involved in regulation of postsynaptic membrane potential	ECO:0007695	IDA	PMID:11435464		9606	SynGO	occurs_in(GO:0031594)	F
+UniProtKB	Q07001	CHRND	involved_in	GO:0050881	musculoskeletal movement	ECO:0000315	IMP	PMID:18252226		9606	BHF-UCL		P
+UniProtKB	Q08257	CRYZ	involved_in	GO:0007601	visual perception	ECO:0000304	TAS	PMID:7835889		9606	PINC		P
+UniProtKB	Q09470	KCNA1	involved_in	GO:0050905	neuromuscular process	ECO:0000315	IMP	PMID:17136396		9606	UniProt		P
+UniProtKB	Q11206	ST3GAL4	involved_in	GO:0050890	cognition	ECO:0000315	IMP	PMID:23227193		9606	UniProt		P
+UniProtKB	Q12805	EFEMP1	involved_in	GO:0007601	visual perception	ECO:0000304	TAS	PMID:10369267		9606	PINC		P
+UniProtKB	Q12879	GRIN2A	involved_in	GO:0007611	learning or memory	ECO:0000304	TAS	PMID:7816096		9606	PINC		P
+UniProtKB	Q13002	GRIK2	enables	GO:0005234	extracellularly glutamate-gated ion channel activity	ECO:0000315	IMP	PMID:28180184		9606	UniProt		F
+UniProtKB	Q13127	REST	involved_in	GO:0050877	nervous system process	ECO:0000315	IMP	PMID:24670762		9606	UniProt		P
+UniProtKB	Q13224	GRIN2B	involved_in	GO:0007611	learning or memory	ECO:0000304	TAS	PMID:10485705		9606	PINC		P
+UniProtKB	Q13402	MYO7A	acts_upstream_of_or_within	GO:0007605	sensory perception of sound	ECO:0000315	IMP	PMID:7870171		9606	MGI		P
+UniProtKB	Q13402	MYO7A	involved_in	GO:0007601	visual perception	ECO:0000315	IMP	PMID:7870171		9606	UniProt		P
+UniProtKB	Q13402	MYO7A	involved_in	GO:0007605	sensory perception of sound	ECO:0000315	IMP	PMID:11398101		9606	HGNC-UCL		P
+UniProtKB	Q13402	MYO7A	involved_in	GO:0007605	sensory perception of sound	ECO:0000315	IMP	PMID:7870171		9606	UniProt		P
+UniProtKB	Q13402	MYO7A	involved_in	GO:0050953	sensory perception of light stimulus	ECO:0000315	IMP	PMID:11398101		9606	HGNC-UCL		P
+UniProtKB	Q13402	MYO7A	involved_in	GO:0050957	equilibrioception	ECO:0000315	IMP	PMID:7870171		9606	HGNC-UCL		P
+UniProtKB	Q13432	UNC119	involved_in	GO:0007601	visual perception	ECO:0000304	TAS	PMID:10329014		9606	PINC		P
+UniProtKB	Q13454	TUSC3	involved_in	GO:0050890	cognition	ECO:0000315	IMP	PMID:18455129		9606	UniProt		P
+UniProtKB	Q13519	PNOC	involved_in	GO:0007600	sensory perception	ECO:0000304	TAS	PMID:9521323		9606	PINC		P
+UniProtKB	Q13588	GRAP	involved_in	GO:0007605	sensory perception of sound	ECO:0000314	IDA	PMID:30610177		9606	UniProt		P
+UniProtKB	Q13956	PDE6H	involved_in	GO:0007601	visual perception	ECO:0000304	TAS	PMID:8786098		9606	PINC		P
+UniProtKB	Q14028	CNGB1	involved_in	GO:0007601	visual perception	ECO:0000304	TAS	PMID:7682292		9606	PINC		P
+UniProtKB	Q14028	CNGB1	involved_in	GO:0050908	detection of light stimulus involved in visual perception	ECO:0000315	IMP	PMID:15557452		9606	UniProt		P
+UniProtKB	Q14203	DCTN1	involved_in	GO:0050905	neuromuscular process	ECO:0000315	IMP	PMID:18305234		9606	ARUK-UCL	occurs_in(CL:0011001)	P
+UniProtKB	Q14573	ITPR3	involved_in	GO:0050909	sensory perception of taste	ECO:0000304	TAS	Reactome:R-HSA-9717207		9606	Reactome		P
+UniProtKB	Q14654	KCNJ11	involved_in	GO:0050877	nervous system process	ECO:0000315	IMP	PMID:15115830		9606	BHF-UCL		P
+UniProtKB	Q14654	KCNJ11	involved_in	GO:0050877	nervous system process	ECO:0000315	IMP	PMID:18073297		9606	BHF-UCL		P
+UniProtKB	Q14784	Q14784	acts_upstream_of_or_within	GO:0007605	sensory perception of sound	ECO:0000314	IDA	PMID:11468689		9606	MGI		P
+UniProtKB	Q14831	GRM7	involved_in	GO:0007605	sensory perception of sound	ECO:0000315	IMP	PMID:19047183		9606	UniProt		P
+UniProtKB	Q14894	CRYM	involved_in	GO:0007605	sensory perception of sound	ECO:0000315	IMP	PMID:12471561		9606	UniProt		P
+UniProtKB	Q15319	POU4F3	involved_in	GO:0007601	visual perception	ECO:0000304	TAS	PMID:7623109		9606	PINC		P
+UniProtKB	Q15319	POU4F3	involved_in	GO:0007605	sensory perception of sound	ECO:0000304	TAS	PMID:9506947		9606	PINC		P
+UniProtKB	Q15582	TGFBI	involved_in	GO:0007601	visual perception	ECO:0000304	TAS	PMID:9463327		9606	PINC		P
+UniProtKB	Q15822	CHRNA2	enables	GO:0015464	acetylcholine receptor activity	ECO:0000314	IDA	PMID:8906617		9606	UniProt		F
+UniProtKB	Q15822	CHRNA2	enables	GO:0022848	acetylcholine-gated monoatomic cation-selective channel activity	ECO:0000314	IDA	PMID:8906617		9606	UniProt		F
+UniProtKB	Q15825	CHRNA6	enables	GO:0015464	acetylcholine receptor activity	ECO:0000304	TAS	PMID:8906617		9606	PINC		F
+UniProtKB	Q15825	CHRNA6	enables	GO:0022848	acetylcholine-gated monoatomic cation-selective channel activity	ECO:0000304	TAS	PMID:8906617		9606	PINC		F
+UniProtKB	Q15835	GRK1	involved_in	GO:0007601	visual perception	ECO:0000304	TAS	PMID:9020843		9606	PINC		P
+UniProtKB	Q15858	SCN9A	involved_in	GO:0019233	sensory perception of pain	ECO:0000315	IMP	PMID:17145499		9606	UniProt		P
+UniProtKB	Q16281	CNGA3	involved_in	GO:0007601	visual perception	ECO:0000304	TAS	PMID:9662398		9606	PINC		P
+UniProtKB	Q16378	PRR4	involved_in	GO:0007601	visual perception	ECO:0000304	TAS	PMID:7544782		9606	PINC		P
+UniProtKB	Q16515	ASIC2	involved_in	GO:0050915	sensory perception of sour taste	ECO:0000315	IMP	PMID:19812697		9606	UniProt		P
+UniProtKB	Q16518	RPE65	involved_in	GO:0007601	visual perception	ECO:0000304	TAS	PMID:9326941		9606	PINC		P
+UniProtKB	Q16518	RPE65	involved_in	GO:0050908	detection of light stimulus involved in visual perception	ECO:0000315	IMP	PMID:15557452		9606	UniProt		P
+UniProtKB	Q17R60	IMPG1	involved_in	GO:0007601	visual perception	ECO:0000304	TAS	PMID:9691169		9606	PINC		P
+UniProtKB	Q2WEN9	CEACAM16	acts_upstream_of_or_within	GO:0007605	sensory perception of sound	ECO:0000315	IMP	PMID:21368133		9606	MGI		P
+UniProtKB	Q2WEN9	CEACAM16	involved_in	GO:0007605	sensory perception of sound	ECO:0000315	IMP	PMID:25589040		9606	UniProt		P
+UniProtKB	Q3MI88	TMC1	involved_in	GO:0050910	detection of mechanical stimulus involved in sensory perception of sound	ECO:0000315	IMP	PMID:11850618		9606	UniProt		P
+UniProtKB	Q495M9	USH1G	involved_in	GO:0007605	sensory perception of sound	ECO:0000315	IMP	PMID:11398101		9606	HGNC-UCL		P
+UniProtKB	Q495M9	USH1G	involved_in	GO:0007605	sensory perception of sound	ECO:0000315	IMP	PMID:12588794		9606	HGNC-UCL		P
+UniProtKB	Q495M9	USH1G	involved_in	GO:0050953	sensory perception of light stimulus	ECO:0000315	IMP	PMID:11398101		9606	HGNC-UCL		P
+UniProtKB	Q495M9	USH1G	involved_in	GO:0050957	equilibrioception	ECO:0000315	IMP	PMID:12588794		9606	HGNC-UCL		P
+UniProtKB	Q496D7	TAS2R49	enables	GO:0033038	bitter taste receptor activity	ECO:0000314	IDA	PMID:20022913		9606	UniProt		F
+UniProtKB	Q496D7	TAS2R49	involved_in	GO:0001580	detection of chemical stimulus involved in sensory perception of bitter taste	ECO:0000314	IDA	PMID:20022913		9606	UniProt		P
+UniProtKB	Q4KMQ1	TPRN	involved_in	GO:0007605	sensory perception of sound	ECO:0000315	IMP	PMID:20170898		9606	UniProt		P
+UniProtKB	Q4KMQ1	TPRN	involved_in	GO:0007605	sensory perception of sound	ECO:0000315	IMP	PMID:20170899		9606	UniProt		P
+UniProtKB	Q5T1H1	EYS	involved_in	GO:0050908	detection of light stimulus involved in visual perception	ECO:0000315	IMP	PMID:18836446		9606	UniProt		P
+UniProtKB	Q5T1H1	EYS	involved_in	GO:0050908	detection of light stimulus involved in visual perception	ECO:0000315	IMP	PMID:18976725		9606	CACAO		P
+UniProtKB	Q5T1H1	EYS	involved_in	GO:0050908	detection of light stimulus involved in visual perception	ECO:0000315	IMP	PMID:18976725		9606	UniProt		P
+UniProtKB	Q5T1H1	EYS	involved_in	GO:0050908	detection of light stimulus involved in visual perception	ECO:0000315	IMP	PMID:20696082		9606	UniProt		P
+UniProtKB	Q5T1H1	EYS	involved_in	GO:0050908	detection of light stimulus involved in visual perception	ECO:0000315	IMP	PMID:22363543		9606	UniProt		P
+UniProtKB	Q5T4F7	SFRP5	involved_in	GO:0007601	visual perception	ECO:0000304	TAS	PMID:10072424		9606	PINC		P
+UniProtKB	Q5T752	LCE1D	involved_in	GO:0050890	cognition	ECO:0000315	IMP	PMID:23227193		9606	UniProt		P
+UniProtKB	Q5TCY1	TTBK1	involved_in	GO:0007611	learning or memory	ECO:0000315	IMP	PMID:19118186		9606	ARUK-UCL	happens_during(UBERON:0018241)	P
+UniProtKB	Q6KC79	NIPBL	involved_in	GO:0007605	sensory perception of sound	ECO:0000315	IMP	PMID:15146186		9606	BHF-UCL		P
+UniProtKB	Q6KC79	NIPBL	involved_in	GO:0050890	cognition	ECO:0000315	IMP	PMID:15146186		9606	BHF-UCL		P
+UniProtKB	Q6PRD1	GPR179	involved_in	GO:0007601	visual perception	ECO:0000315	IMP	PMID:22325362		9606	UniProt		P
+UniProtKB	Q6UX65	DRAM2	involved_in	GO:0007601	visual perception	ECO:0000315	IMP	PMID:25983245		9606	UniProt		P
+UniProtKB	Q7L576	CYFIP1	involved_in	GO:0050890	cognition	ECO:0000315	IMP	PMID:17519220		9606	UniProt		P
+UniProtKB	Q7LC44	ARC	involved_in	GO:0007616	long-term memory	ECO:0000304	TAS	PMID:15537891		9606	ARUK-UCL		P
+UniProtKB	Q7RTR8	TAS2R42	NOT|enables	GO:0033038	bitter taste receptor activity	ECO:0000314	IDA	PMID:20022913		9606	UniProt		F
+UniProtKB	Q7RTR8	TAS2R42	NOT|involved_in	GO:0001580	detection of chemical stimulus involved in sensory perception of bitter taste	ECO:0000314	IDA	PMID:20022913		9606	UniProt		P
+UniProtKB	Q7RTX0	TAS1R3	contributes_to	GO:0008527	taste receptor activity	ECO:0000314	IDA	PMID:16720576		9606	HGNC-UCL		F
+UniProtKB	Q7RTX0	TAS1R3	contributes_to	GO:0033041	sweet taste receptor activity	ECO:0000314	IDA	PMID:16720576		9606	HGNC-UCL		F
+UniProtKB	Q7RTX0	TAS1R3	enables	GO:0008527	taste receptor activity	ECO:0000353	IPI	PMID:11917125	UniProtKB:Q7RTX1|UniProtKB:Q8TE23	9606	UniProt		F
+UniProtKB	Q7RTX0	TAS1R3	involved_in	GO:0001582	detection of chemical stimulus involved in sensory perception of sweet taste	ECO:0000314	IDA	PMID:16720576		9606	HGNC-UCL		P
+UniProtKB	Q7RTX0	TAS1R3	involved_in	GO:0050916	sensory perception of sweet taste	ECO:0000314	IDA	PMID:11917125		9606	UniProt		P
+UniProtKB	Q7RTX0	TAS1R3	involved_in	GO:0050916	sensory perception of sweet taste	ECO:0000314	IDA	PMID:12892531		9606	UniProt		P
+UniProtKB	Q7RTX0	TAS1R3	involved_in	GO:0050916	sensory perception of sweet taste	ECO:0000314	IDA	PMID:15299024		9606	UniProt		P
+UniProtKB	Q7RTX0	TAS1R3	involved_in	GO:0050917	sensory perception of umami taste	ECO:0000314	IDA	PMID:11917125		9606	UniProt		P
+UniProtKB	Q7RTX1	TAS1R1	enables	GO:0008527	taste receptor activity	ECO:0000353	IPI	PMID:11917125	UniProtKB:Q7RTX0	9606	UniProt		F
+UniProtKB	Q7RTX1	TAS1R1	involved_in	GO:0050917	sensory perception of umami taste	ECO:0000314	IDA	PMID:11917125		9606	UniProt		P
+UniProtKB	Q7Z3F1	GPR155	involved_in	GO:0050890	cognition	ECO:0000315	IMP	PMID:17519220		9606	UniProt		P
+UniProtKB	Q7Z3S7	CACNA2D4	involved_in	GO:0050908	detection of light stimulus involved in visual perception	ECO:0000315	IMP	PMID:17033974		9606	UniProt	occurs_in(CL:0000573)	P
+UniProtKB	Q7Z406	MYH14	involved_in	GO:0003009	skeletal muscle contraction	ECO:0000315	IMP	PMID:21480433		9606	UniProt		P
+UniProtKB	Q7Z406	MYH14	involved_in	GO:0007605	sensory perception of sound	ECO:0000315	IMP	PMID:21480433		9606	UniProt		P
+UniProtKB	Q7Z406	MYH14	involved_in	GO:0019228	neuronal action potential	ECO:0000315	IMP	PMID:21480433		9606	UniProt		P
+UniProtKB	Q7Z443	PKD1L3	involved_in	GO:0050915	sensory perception of sour taste	ECO:0000315	IMP	PMID:19812697		9606	UniProt		P
+UniProtKB	Q7Z4N2	TRPM1	involved_in	GO:0007601	visual perception	ECO:0000315	IMP	PMID:19878917		9606	UniProt		P
+UniProtKB	Q7Z6L0	PRRT2	acts_upstream_of_or_within	GO:0050884	neuromuscular process controlling posture	ECO:0000315	IMP	PMID:22101681		9606	MGI		P
+UniProtKB	Q86W47	KCNMB4	involved_in	GO:0019228	neuronal action potential	ECO:0000314	IDA	PMID:10692449		9606	UniProt		P
+UniProtKB	Q86XA0	METTL23	involved_in	GO:0050890	cognition	ECO:0000315	IMP	PMID:24501276		9606	UniProt		P
+UniProtKB	Q8IVM0	CCDC50	acts_upstream_of_or_within	GO:0007605	sensory perception of sound	ECO:0000315	IMP	PMID:17503326		9606	MGI		P
+UniProtKB	Q8IVV2	LOXHD1	involved_in	GO:0007605	sensory perception of sound	ECO:0000315	IMP	PMID:19732867		9606	UniProt		P
+UniProtKB	Q8IWT1	SCN4B	involved_in	GO:0019228	neuronal action potential	ECO:0000314	IDA	PMID:24297919		9606	UniProt		P
+UniProtKB	Q8IZV5	RDH10	acts_upstream_of_or_within	GO:0007601	visual perception	ECO:0000314	IDA	PMID:12407145		9606	MGI		P
+UniProtKB	Q8N0W4	NLGN4X	involved_in	GO:0007612	learning	ECO:0000315	IMP	PMID:12669065		9606	BHF-UCL		P
+UniProtKB	Q8N4S9	MARVELD2	acts_upstream_of_or_within	GO:0007605	sensory perception of sound	ECO:0000315	IMP	PMID:17186462		9606	MGI		P
+UniProtKB	Q8NA29	MFSD2A	acts_upstream_of	GO:0050890	cognition	ECO:0000315	IMP	PMID:26005868		9606	ARUK-UCL		P
+UniProtKB	Q8NBN3	TMEM87A	involved_in	GO:0050976	detection of mechanical stimulus involved in sensory perception of touch	ECO:0000315	IMP	PMID:38422143		9606	UniProt		P
+UniProtKB	Q8NER1	TRPV1	acts_upstream_of_or_within	GO:0050955	thermoception	ECO:0000314	IDA	PMID:10201375		9606	MGI		P
+UniProtKB	Q8NEV4	MYO3A	involved_in	GO:0007605	sensory perception of sound	ECO:0000315	IMP	PMID:12032315		9606	UniProt		P
+UniProtKB	Q8NFZ3	NLGN4Y	involved_in	GO:0007612	learning	ECO:0000315	IMP	PMID:18628683		9606	BHF-UCL		P
+UniProtKB	Q8NG48	LINS1	involved_in	GO:0050890	cognition	ECO:0000315	IMP	PMID:23773660		9606	HGNC		P
+UniProtKB	Q8NGD0	OR4M1	enables	GO:0004984	olfactory receptor activity	ECO:0000314	IDA	PMID:31230984		9606	UniProt		F
+UniProtKB	Q8NGI8	OR5AN1	enables	GO:0004984	olfactory receptor activity	ECO:0000314	IDA	PMID:25901328		9606	UniProt		F
+UniProtKB	Q8NGI8	OR5AN1	involved_in	GO:0050907	detection of chemical stimulus involved in sensory perception	ECO:0000314	IDA	PMID:25901328		9606	UniProt		P
+UniProtKB	Q8NGK2	OR52B4	involved_in	GO:0050890	cognition	ECO:0000315	IMP	PMID:23227193		9606	UniProt		P
+UniProtKB	Q8NHC4	OR10J5	enables	GO:0004984	olfactory receptor activity	ECO:0000314	IDA	PMID:25791473		9606	UniProt		F
+UniProtKB	Q8NHC4	OR10J5	enables	GO:0004984	olfactory receptor activity	ECO:0000315	IMP	PMID:28842679		9606	UniProt		F
+UniProtKB	Q8NHC4	OR10J5	involved_in	GO:0007608	sensory perception of smell	ECO:0000314	IDA	PMID:25791473		9606	UniProt		P
+UniProtKB	Q8TA86	RP9	involved_in	GO:0050890	cognition	ECO:0000315	IMP	PMID:23227193		9606	UniProt		P
+UniProtKB	Q8TAM2	TTC8	involved_in	GO:0050893	sensory processing	ECO:0000304	TAS	PMID:14520415		9606	BHF-UCL		P
+UniProtKB	Q8TDI7	TMC2	involved_in	GO:0050910	detection of mechanical stimulus involved in sensory perception of sound	ECO:0000315	IMP	PMID:11850618		9606	UniProt		P
+UniProtKB	Q8TE23	TAS1R2	contributes_to	GO:0008527	taste receptor activity	ECO:0000314	IDA	PMID:16720576		9606	HGNC-UCL		F
+UniProtKB	Q8TE23	TAS1R2	contributes_to	GO:0033041	sweet taste receptor activity	ECO:0000314	IDA	PMID:16720576		9606	HGNC-UCL		F
+UniProtKB	Q8TE23	TAS1R2	enables	GO:0008527	taste receptor activity	ECO:0000353	IPI	PMID:11917125	UniProtKB:Q7RTX0	9606	UniProt		F
+UniProtKB	Q8TE23	TAS1R2	involved_in	GO:0001582	detection of chemical stimulus involved in sensory perception of sweet taste	ECO:0000314	IDA	PMID:16720576		9606	HGNC-UCL		P
+UniProtKB	Q8TE23	TAS1R2	involved_in	GO:0050916	sensory perception of sweet taste	ECO:0000314	IDA	PMID:11917125		9606	UniProt		P
+UniProtKB	Q8WU66	TSPEAR	acts_upstream_of_or_within	GO:0007605	sensory perception of sound	ECO:0000315	IMP	PMID:22678063		9606	MGI		P
+UniProtKB	Q8WU66	TSPEAR	involved_in	GO:0007605	sensory perception of sound	ECO:0000315	IMP	PMID:22678063		9606	UniProt		P
+UniProtKB	Q8WUJ3	CEMIP	involved_in	GO:0007605	sensory perception of sound	ECO:0000315	IMP	PMID:14577002		9606	UniProt		P
+UniProtKB	Q8WXG9	ADGRV1	involved_in	GO:0007605	sensory perception of sound	ECO:0000315	IMP	PMID:14740321		9606	HGNC-UCL		P
+UniProtKB	Q8WXG9	ADGRV1	involved_in	GO:0050877	nervous system process	ECO:0000315	IMP	PMID:12402266		9606	HGNC-UCL		P
+UniProtKB	Q8WXG9	ADGRV1	involved_in	GO:0050953	sensory perception of light stimulus	ECO:0000315	IMP	PMID:14740321		9606	HGNC-UCL		P
+UniProtKB	Q8WXG9	ADGRV1	involved_in	GO:0050953	sensory perception of light stimulus	ECO:0000315	IMP	PMID:15671307		9606	HGNC-UCL		P
+UniProtKB	Q92696	RABGGTA	involved_in	GO:0007601	visual perception	ECO:0000304	TAS	PMID:8380507		9606	PINC		P
+UniProtKB	Q92781	RDH5	involved_in	GO:0007601	visual perception	ECO:0000304	TAS	PMID:10369264		9606	PINC		P
+UniProtKB	Q92834	RPGR	involved_in	GO:0007601	visual perception	ECO:0000315	IMP	PMID:9399904		9606	UniProt		P
+UniProtKB	Q96AJ9	VTI1A	involved_in	GO:0050882	voluntary musculoskeletal movement	ECO:0000315	IMP	PMID:22958904		9606	UniProt		P
+UniProtKB	Q96DA6	DNAJC19	involved_in	GO:0007601	visual perception	ECO:0000315	IMP	PMID:16055927		9606	UniProt		P
+UniProtKB	Q96DX8	RTP4	involved_in	GO:0001580	detection of chemical stimulus involved in sensory perception of bitter taste	ECO:0000314	IDA	PMID:16720576		9606	HGNC-UCL		P
+UniProtKB	Q96HR9	REEP6	involved_in	GO:0050908	detection of light stimulus involved in visual perception	ECO:0000315	IMP	PMID:27889058		9606	UniProt		P
+UniProtKB	Q96MF2	STAC3	involved_in	GO:0003009	skeletal muscle contraction	ECO:0000315	IMP	PMID:23736855		9606	UniProt		P
+UniProtKB	Q96MG2	JSRP1	involved_in	GO:0003009	skeletal muscle contraction	ECO:0000314	IDA	PMID:22927026		9606	UniProt		P
+UniProtKB	Q96N16	JAKMIP1	involved_in	GO:0050890	cognition	ECO:0000315	IMP	PMID:17519220		9606	UniProt		P
+UniProtKB	Q96NR3	PTCHD1	involved_in	GO:0050890	cognition	ECO:0000315	IMP	PMID:20844286		9606	UniProt		P
+UniProtKB	Q96NR8	RDH12	involved_in	GO:0007601	visual perception	ECO:0000304	TAS	PMID:12226107		9606	UniProt		P
+UniProtKB	Q96NR8	RDH12	involved_in	GO:0007601	visual perception	ECO:0000315	IMP	PMID:12226107		9606	UniProt		P
+UniProtKB	Q96QU1	PCDH15	acts_upstream_of_or_within	GO:0007605	sensory perception of sound	ECO:0000315	IMP	PMID:15537665		9606	MGI		P
+UniProtKB	Q96QU1	PCDH15	involved_in	GO:0007605	sensory perception of sound	ECO:0000315	IMP	PMID:11398101		9606	HGNC-UCL		P
+UniProtKB	Q96QU1	PCDH15	involved_in	GO:0050953	sensory perception of light stimulus	ECO:0000315	IMP	PMID:11398101		9606	HGNC-UCL		P
+UniProtKB	Q96QU1	PCDH15	involved_in	GO:0050957	equilibrioception	ECO:0000315	IMP	PMID:16679490		9606	HGNC-UCL		P
+UniProtKB	Q96RK4	BBS4	involved_in	GO:0050893	sensory processing	ECO:0000304	TAS	PMID:14520415		9606	BHF-UCL		P
+UniProtKB	Q99250	SCN2A	involved_in	GO:0019228	neuronal action potential	ECO:0000315	IMP	PMID:17021166		9606	UniProt		P
+UniProtKB	Q99250	SCN2A	involved_in	GO:0019228	neuronal action potential	ECO:0000315	IMP	PMID:29844171		9606	UniProt		P
+UniProtKB	Q99456	KRT12	involved_in	GO:0007601	visual perception	ECO:0000304	TAS	PMID:9171831		9606	PINC		P
+UniProtKB	Q99489	DDO	involved_in	GO:0050877	nervous system process	ECO:0000315	IMP	PMID:28560262		9606	UniProt		P
+UniProtKB	Q99502	EYA1	involved_in	GO:0007605	sensory perception of sound	ECO:0000304	TAS	PMID:9020840		9606	PINC		P
+UniProtKB	Q99504	EYA3	involved_in	GO:0007601	visual perception	ECO:0000304	TAS	PMID:9049631		9606	PINC		P
+UniProtKB	Q99571	P2RX4	enables	GO:0004931	extracellularly ATP-gated monoatomic cation channel activity	ECO:0000314	IDA	PMID:10515189		9606	UniProt		F
+UniProtKB	Q99571	P2RX4	enables	GO:0004931	extracellularly ATP-gated monoatomic cation channel activity	ECO:0000314	IDA	PMID:9016352		9606	BHF-UCL		F
+UniProtKB	Q99572	P2RX7	enables	GO:0004931	extracellularly ATP-gated monoatomic cation channel activity	ECO:0000314	IDA	PMID:9038151		9606	BHF-UCL		F
+UniProtKB	Q99622	C12orf57	involved_in	GO:0050890	cognition	ECO:0000315	IMP	PMID:23633300		9606	UniProt		P
+UniProtKB	Q9BQQ7	RTP3	involved_in	GO:0001580	detection of chemical stimulus involved in sensory perception of bitter taste	ECO:0000314	IDA	PMID:16720576		9606	HGNC-UCL		P
+UniProtKB	Q9BVG8	KIFC3	involved_in	GO:0007601	visual perception	ECO:0000304	TAS	PMID:9782090		9606	PINC		P
+UniProtKB	Q9BX79	STRA6	involved_in	GO:0007612	learning	ECO:0000315	IMP	PMID:17273977		9606	DFLAT		P
+UniProtKB	Q9BX79	STRA6	involved_in	GO:0042297	vocal learning	ECO:0000315	IMP	PMID:17273977		9606	DFLAT		P
+UniProtKB	Q9BX79	STRA6	involved_in	GO:0050890	cognition	ECO:0000315	IMP	PMID:17273977		9606	DFLAT		P
+UniProtKB	Q9BX79	STRA6	involved_in	GO:0050905	neuromuscular process	ECO:0000315	IMP	PMID:17273977		9606	DFLAT		P
+UniProtKB	Q9BXC9	BBS2	involved_in	GO:0007601	visual perception	ECO:0000315	IMP	PMID:25541840		9606	UniProt		P
+UniProtKB	Q9BY43	CHMP4A	involved_in	GO:0050877	nervous system process	ECO:0000315	IMP	PMID:21975012		9606	UniProt		P
+UniProtKB	Q9BYB0	SHANK3	involved_in	GO:0007612	learning	ECO:0000315	IMP	PMID:17173049		9606	BHF-UCL		P
+UniProtKB	Q9BYB0	SHANK3	involved_in	GO:0007612	learning	ECO:0000315	IMP	PMID:21378602		9606	BHF-UCL		P
+UniProtKB	Q9BYB0	SHANK3	involved_in	GO:0042297	vocal learning	ECO:0000315	IMP	PMID:17173049		9606	BHF-UCL		P
+UniProtKB	Q9BYB0	SHANK3	involved_in	GO:0042297	vocal learning	ECO:0000315	IMP	PMID:21378602		9606	BHF-UCL		P
+UniProtKB	Q9BYF1	ACE2	involved_in	GO:0003051	angiotensin-mediated drinking behavior	ECO:0000315	IMP	PMID:18258853		9606	BHF-UCL		P
+UniProtKB	Q9BZV3	IMPG2	involved_in	GO:0007601	visual perception	ECO:0000304	TAS	PMID:10702256		9606	UniProt		P
+UniProtKB	Q9H0U3	MAGT1	involved_in	GO:0050890	cognition	ECO:0000315	IMP	PMID:18455129		9606	UniProt		P
+UniProtKB	Q9H251	CDH23	acts_upstream_of_or_within	GO:0007605	sensory perception of sound	ECO:0000315	IMP	PMID:15537665		9606	MGI		P
+UniProtKB	Q9H251	CDH23	involved_in	GO:0007605	sensory perception of sound	ECO:0000315	IMP	PMID:16679490		9606	HGNC-UCL		P
+UniProtKB	Q9H251	CDH23	involved_in	GO:0007605	sensory perception of sound	ECO:0000315	IMP	PMID:17234811		9606	DFLAT		P
+UniProtKB	Q9H251	CDH23	involved_in	GO:0050953	sensory perception of light stimulus	ECO:0000315	IMP	PMID:16679490		9606	HGNC-UCL		P
+UniProtKB	Q9H251	CDH23	involved_in	GO:0050957	equilibrioception	ECO:0000315	IMP	PMID:16679490		9606	HGNC-UCL		P
+UniProtKB	Q9H255	OR51E2	enables	GO:0004984	olfactory receptor activity	ECO:0000314	IDA	PMID:19389702		9606	UniProt		F
+UniProtKB	Q9H255	OR51E2	enables	GO:0004984	olfactory receptor activity	ECO:0000315	IMP	PMID:29249973		9606	UniProt		F
+UniProtKB	Q9H444	CHMP4B	involved_in	GO:0050877	nervous system process	ECO:0000315	IMP	PMID:21975012		9606	UniProt		P
+UniProtKB	Q9H4Q4	PRDM12	acts_upstream_of_or_within	GO:0019233	sensory perception of pain	ECO:0000315	IMP	PMID:26005867		9606	MGI		P
+UniProtKB	Q9H4Q4	PRDM12	acts_upstream_of_or_within	GO:0050965	detection of temperature stimulus involved in sensory perception of pain	ECO:0000315	IMP	PMID:26005867		9606	MGI		P
+UniProtKB	Q9H6K4	OPA3	involved_in	GO:0007601	visual perception	ECO:0000315	IMP	PMID:15342707		9606	UniProt		P
+UniProtKB	Q9H6L5	RETREG1	involved_in	GO:0019233	sensory perception of pain	ECO:0000315	IMP	PMID:19838196		9606	UniProt		P
+UniProtKB	Q9HBG4	ATP6V0A4	involved_in	GO:0007605	sensory perception of sound	ECO:0000315	IMP	PMID:12414817		9606	HGNC-UCL		P
+UniProtKB	Q9HC10	OTOF	involved_in	GO:0007605	sensory perception of sound	ECO:0000304	TAS	PMID:10192385		9606	PINC		P
+UniProtKB	Q9HC23	PROK2	involved_in	GO:0019233	sensory perception of pain	ECO:0000304	TAS	PMID:12728244		9606	UniProt		P
+UniProtKB	Q9NPA1	KCNMB3	involved_in	GO:0019228	neuronal action potential	ECO:0000314	IDA	PMID:10692449		9606	UniProt		P
+UniProtKB	Q9NQ40	SLC52A3	involved_in	GO:0007605	sensory perception of sound	ECO:0000315	IMP	PMID:20206331		9606	UniProt		P
+UniProtKB	Q9NQW8	CNGB3	involved_in	GO:0007601	visual perception	ECO:0000304	TAS	PMID:10888875		9606	PINC		P
+UniProtKB	Q9NRC9	OTOR	involved_in	GO:0007605	sensory perception of sound	ECO:0000304	TAS	PMID:10873378		9606	PINC		P
+UniProtKB	Q9NSB8	HOMER2	involved_in	GO:0007605	sensory perception of sound	ECO:0000315	IMP	PMID:25816005		9606	UniProt		P
+UniProtKB	Q9NY56	OBP2A	involved_in	GO:0007606	sensory perception of chemical stimulus	ECO:0000304	TAS	PMID:10607840		9606	PINC		P
+UniProtKB	Q9NYR8	RDH8	involved_in	GO:0007601	visual perception	ECO:0000304	TAS	PMID:10753906		9606	PINC		P
+UniProtKB	Q9NYV7	TAS2R16	enables	GO:0033038	bitter taste receptor activity	ECO:0000314	IDA	PMID:16720576		9606	HGNC-UCL		F
+UniProtKB	Q9NYV7	TAS2R16	enables	GO:0033038	bitter taste receptor activity	ECO:0000314	IDA	PMID:20022913		9606	UniProt		F
+UniProtKB	Q9NYV7	TAS2R16	involved_in	GO:0001580	detection of chemical stimulus involved in sensory perception of bitter taste	ECO:0000314	IDA	PMID:16720576		9606	HGNC-UCL		P
+UniProtKB	Q9NYV7	TAS2R16	involved_in	GO:0001580	detection of chemical stimulus involved in sensory perception of bitter taste	ECO:0000314	IDA	PMID:20022913		9606	UniProt		P
+UniProtKB	Q9NYV8	TAS2R14	enables	GO:0008527	taste receptor activity	ECO:0000304	TAS	PMID:10761934		9606	UniProt		F
+UniProtKB	Q9NYV8	TAS2R14	enables	GO:0008527	taste receptor activity	ECO:0000314	IDA	PMID:16720576		9606	HGNC-UCL		F
+UniProtKB	Q9NYV8	TAS2R14	enables	GO:0033038	bitter taste receptor activity	ECO:0000314	IDA	PMID:16720576		9606	HGNC-UCL		F
+UniProtKB	Q9NYV8	TAS2R14	enables	GO:0033038	bitter taste receptor activity	ECO:0000314	IDA	PMID:20022913		9606	UniProt		F
+UniProtKB	Q9NYV8	TAS2R14	involved_in	GO:0001580	detection of chemical stimulus involved in sensory perception of bitter taste	ECO:0000314	IDA	PMID:16720576		9606	HGNC-UCL		P
+UniProtKB	Q9NYV8	TAS2R14	involved_in	GO:0001580	detection of chemical stimulus involved in sensory perception of bitter taste	ECO:0000314	IDA	PMID:20022913		9606	UniProt		P
+UniProtKB	Q9NYV9	TAS2R13	enables	GO:0008527	taste receptor activity	ECO:0000304	TAS	PMID:10761934		9606	UniProt		F
+UniProtKB	Q9NYV9	TAS2R13	enables	GO:0033038	bitter taste receptor activity	ECO:0000314	IDA	PMID:20022913		9606	UniProt		F
+UniProtKB	Q9NYV9	TAS2R13	involved_in	GO:0001580	detection of chemical stimulus involved in sensory perception of bitter taste	ECO:0000314	IDA	PMID:20022913		9606	UniProt		P
+UniProtKB	Q9NYW0	TAS2R10	enables	GO:0008527	taste receptor activity	ECO:0000304	TAS	PMID:10761934		9606	UniProt		F
+UniProtKB	Q9NYW0	TAS2R10	enables	GO:0033038	bitter taste receptor activity	ECO:0000314	IDA	PMID:20022913		9606	UniProt		F
+UniProtKB	Q9NYW0	TAS2R10	involved_in	GO:0001580	detection of chemical stimulus involved in sensory perception of bitter taste	ECO:0000314	IDA	PMID:20022913		9606	UniProt		P
+UniProtKB	Q9NYW1	TAS2R9	enables	GO:0008527	taste receptor activity	ECO:0000304	TAS	PMID:10761934		9606	UniProt		F
+UniProtKB	Q9NYW2	TAS2R8	enables	GO:0008527	taste receptor activity	ECO:0000304	TAS	PMID:10761934		9606	UniProt		F
+UniProtKB	Q9NYW2	TAS2R8	enables	GO:0033038	bitter taste receptor activity	ECO:0000314	IDA	PMID:20022913		9606	UniProt		F
+UniProtKB	Q9NYW2	TAS2R8	involved_in	GO:0001580	detection of chemical stimulus involved in sensory perception of bitter taste	ECO:0000314	IDA	PMID:20022913		9606	UniProt		P
+UniProtKB	Q9NYW3	TAS2R7	enables	GO:0008527	taste receptor activity	ECO:0000304	TAS	PMID:10761934		9606	UniProt		F
+UniProtKB	Q9NYW3	TAS2R7	enables	GO:0033038	bitter taste receptor activity	ECO:0000314	IDA	PMID:20022913		9606	UniProt		F
+UniProtKB	Q9NYW3	TAS2R7	involved_in	GO:0001580	detection of chemical stimulus involved in sensory perception of bitter taste	ECO:0000314	IDA	PMID:20022913		9606	UniProt		P
+UniProtKB	Q9NYW4	TAS2R5	enables	GO:0008527	taste receptor activity	ECO:0000304	TAS	PMID:10761934		9606	UniProt		F
+UniProtKB	Q9NYW4	TAS2R5	enables	GO:0033038	bitter taste receptor activity	ECO:0000314	IDA	PMID:20022913		9606	UniProt		F
+UniProtKB	Q9NYW4	TAS2R5	involved_in	GO:0001580	detection of chemical stimulus involved in sensory perception of bitter taste	ECO:0000314	IDA	PMID:20022913		9606	UniProt		P
+UniProtKB	Q9NYW5	TAS2R4	enables	GO:0008527	taste receptor activity	ECO:0000304	TAS	PMID:10761934		9606	UniProt		F
+UniProtKB	Q9NYW5	TAS2R4	enables	GO:0033038	bitter taste receptor activity	ECO:0000314	IDA	PMID:20022913		9606	UniProt		F
+UniProtKB	Q9NYW5	TAS2R4	involved_in	GO:0001580	detection of chemical stimulus involved in sensory perception of bitter taste	ECO:0000314	IDA	PMID:20022913		9606	UniProt		P
+UniProtKB	Q9NYW6	TAS2R3	enables	GO:0008527	taste receptor activity	ECO:0000304	TAS	PMID:10761934		9606	UniProt		F
+UniProtKB	Q9NYW6	TAS2R3	enables	GO:0033038	bitter taste receptor activity	ECO:0000314	IDA	PMID:20022913		9606	UniProt		F
+UniProtKB	Q9NYW6	TAS2R3	involved_in	GO:0001580	detection of chemical stimulus involved in sensory perception of bitter taste	ECO:0000314	IDA	PMID:20022913		9606	UniProt		P
+UniProtKB	Q9NYW7	TAS2R1	enables	GO:0008527	taste receptor activity	ECO:0000304	TAS	PMID:10761934		9606	UniProt		F
+UniProtKB	Q9NYW7	TAS2R1	enables	GO:0033038	bitter taste receptor activity	ECO:0000314	IDA	PMID:20022913		9606	UniProt		F
+UniProtKB	Q9NYW7	TAS2R1	involved_in	GO:0001580	detection of chemical stimulus involved in sensory perception of bitter taste	ECO:0000314	IDA	PMID:20022913		9606	UniProt		P
+UniProtKB	Q9NZ94	NLGN3	involved_in	GO:0007612	learning	ECO:0000315	IMP	PMID:12669065		9606	BHF-UCL		P
+UniProtKB	Q9NZA1	CLIC5	involved_in	GO:0007605	sensory perception of sound	ECO:0000315	IMP	PMID:24781754		9606	UniProt		P
+UniProtKB	Q9NZC2	TREM2	acts_upstream_of_positive_effect	GO:0007613	memory	ECO:0000315	IMP	PMID:29518357		9606	ARUK-UCL		P
+UniProtKB	Q9NZC2	TREM2	acts_upstream_of_positive_effect	GO:0007613	memory	ECO:0000314	IDA	PMID:31462511		9606	ARUK-UCL	occurs_in(UBERON:0001359)	P
+UniProtKB	Q9NZN9	AIPL1	involved_in	GO:0007601	visual perception	ECO:0000304	TAS	PMID:10615133		9606	PINC		P
+UniProtKB	Q9NZR4	VSX1	involved_in	GO:0007601	visual perception	ECO:0000304	TAS	PMID:10673340		9606	PINC		P
+UniProtKB	Q9P0L9	PKD2L1	involved_in	GO:0050915	sensory perception of sour taste	ECO:0000315	IMP	PMID:19812697		9606	UniProt		P
+UniProtKB	Q9P202	WHRN	involved_in	GO:0007605	sensory perception of sound	ECO:0000315	IMP	PMID:17171570		9606	HGNC-UCL		P
+UniProtKB	Q9P202	WHRN	involved_in	GO:0050953	sensory perception of light stimulus	ECO:0000315	IMP	PMID:17171570		9606	HGNC-UCL		P
+UniProtKB	Q9P2D1	CHD7	involved_in	GO:0050890	cognition	ECO:0000315	IMP	PMID:16155193		9606	BHF-UCL		P
+UniProtKB	Q9P2S2	NRXN2	involved_in	GO:0042297	vocal learning	ECO:0000315	IMP	PMID:21424692		9606	BHF-UCL		P
+UniProtKB	Q9UBC5	MYO1A	involved_in	GO:0007605	sensory perception of sound	ECO:0000315	IMP	PMID:12736868		9606	UniProt		P
+UniProtKB	Q9UBL9	P2RX2	enables	GO:0004931	extracellularly ATP-gated monoatomic cation channel activity	ECO:0000314	IDA	PMID:23345450		9606	UniProt		F
+UniProtKB	Q9UBL9	P2RX2	involved_in	GO:0007605	sensory perception of sound	ECO:0000315	IMP	PMID:23345450		9606	UniProt		P
+UniProtKB	Q9UGM1	CHRNA9	enables	GO:0022848	acetylcholine-gated monoatomic cation-selective channel activity	ECO:0000314	IDA	PMID:25282151		9606	UniProt		F
+UniProtKB	Q9UHC3	ASIC3	involved_in	GO:0007600	sensory perception	ECO:0000304	TAS	PMID:9744806		9606	PINC		P
+UniProtKB	Q9UHC3	ASIC3	involved_in	GO:0050915	sensory perception of sour taste	ECO:0000315	IMP	PMID:19812697		9606	UniProt		P
+UniProtKB	Q9UHC6	CNTNAP2	involved_in	GO:0007612	learning	ECO:0000315	IMP	PMID:18179893		9606	BHF-UCL		P
+UniProtKB	Q9UHC6	CNTNAP2	involved_in	GO:0042297	vocal learning	ECO:0000315	IMP	PMID:19896112		9606	BHF-UCL		P
+UniProtKB	Q9UHG0	DCDC2	involved_in	GO:0007605	sensory perception of sound	ECO:0000315	IMP	PMID:25601850		9606	UniProt		P
+UniProtKB	Q9UI33	SCN11A	involved_in	GO:0019233	sensory perception of pain	ECO:0000315	IMP	PMID:24036948		9606	UniProt		P
+UniProtKB	Q9UIW0	VAX2	involved_in	GO:0007601	visual perception	ECO:0000304	TAS	PMID:10485894		9606	PINC		P
+UniProtKB	Q9UKL2	OR52A1	involved_in	GO:0007608	sensory perception of smell	ECO:0000304	TAS	PMID:10512676		9606	PINC		P
+UniProtKB	Q9UKN7	MYO15A	involved_in	GO:0007605	sensory perception of sound	ECO:0000304	TAS	PMID:10552926		9606	PINC		P
+UniProtKB	Q9UL52	TMPRSS11E	involved_in	GO:0050890	cognition	ECO:0000315	IMP	PMID:23227193		9606	UniProt		P
+UniProtKB	Q9ULB1	NRXN1	NOT|involved_in	GO:0050885	neuromuscular process controlling balance	ECO:0000315	IMP	PMID:19896112		9606	BHF-UCL		P
+UniProtKB	Q9ULB1	NRXN1	involved_in	GO:0007612	learning	ECO:0000315	IMP	PMID:19896112		9606	BHF-UCL		P
+UniProtKB	Q9ULB1	NRXN1	involved_in	GO:0042297	vocal learning	ECO:0000315	IMP	PMID:19896112		9606	BHF-UCL		P
+UniProtKB	Q9ULL8	SHROOM4	involved_in	GO:0050890	cognition	ECO:0000314	IDA	PMID:16249884		9606	UniProt		P
+UniProtKB	Q9UNH5	CDC14A	involved_in	GO:0007605	sensory perception of sound	ECO:0000315	IMP	PMID:29293958		9606	UniProt		P
+UniProtKB	Q9UNN4	GTF2A1L	involved_in	GO:0050890	cognition	ECO:0000315	IMP	PMID:23227193		9606	UniProt		P
+UniProtKB	Q9UPF3	GLRA3	enables	GO:0016934	extracellularly glycine-gated chloride channel activity	ECO:0000304	TAS	PMID:9677400		9606	UniProt		F
+UniProtKB	Q9UPX8	SHANK2	involved_in	GO:0007612	learning	ECO:0000315	IMP	PMID:20473310		9606	BHF-UCL		P
+UniProtKB	Q9UQN3	CHMP2B	involved_in	GO:0050890	cognition	ECO:0000315	IMP	PMID:16041373		9606	UniProt		P
+UniProtKB	Q9Y2V3	RAX	involved_in	GO:0007601	visual perception	ECO:0000304	TAS	PMID:10625658		9606	PINC		P
+UniProtKB	Q9Y3R5	DOP1B	involved_in	GO:0050890	cognition	ECO:0000315	IMP	PMID:23227193		9606	UniProt		P
+UniProtKB	Q9Y4F9	RIPOR2	acts_upstream_of_or_within	GO:0007605	sensory perception of sound	ECO:0000315	IMP	PMID:24958875		9606	MGI		P
+UniProtKB	Q9Y4F9	RIPOR2	involved_in	GO:0007605	sensory perception of sound	ECO:0000315	IMP	PMID:24958875		9606	UniProt		P
+UniProtKB	Q9Y566	SHANK1	involved_in	GO:0050894	determination of affect	ECO:0000315	IMP	PMID:22503632		9606	BHF-UCL		P
+UniProtKB	Q9Y5J7	TIMM9	involved_in	GO:0007605	sensory perception of sound	ECO:0000304	TAS	PMID:10552927		9606	PINC		P
+UniProtKB	Q9Y5J9	TIMM8B	involved_in	GO:0007605	sensory perception of sound	ECO:0000304	TAS	PMID:10552927		9606	PINC		P
+UniProtKB	Q9Y5L4	TIMM13	involved_in	GO:0007605	sensory perception of sound	ECO:0000304	TAS	PMID:10552927		9606	PINC		P
+UniProtKB	Q9Y5S1	TRPV2	involved_in	GO:0007600	sensory perception	ECO:0000304	TAS	PMID:10201375		9606	PINC		P
+UniProtKB	Q9Y5X4	NR2E3	involved_in	GO:0007601	visual perception	ECO:0000304	TAS	PMID:10220376		9606	PINC		P
+UniProtKB	Q9Y5Y9	SCN10A	involved_in	GO:0007600	sensory perception	ECO:0000304	TAS	PMID:9839820		9606	PINC		P
+UniProtKB	Q9Y691	KCNMB2	involved_in	GO:0019228	neuronal action potential	ECO:0000314	IDA	PMID:10692449		9606	UniProt		P
+UniProtKB	Q9Y6M9	NDUFB9	involved_in	GO:0007605	sensory perception of sound	ECO:0000304	TAS	PMID:8661098		9606	PINC		P
+UniProtKB	Q9Y6N9	USH1C	involved_in	GO:0007605	sensory perception of sound	ECO:0000315	IMP	PMID:11398101		9606	HGNC-UCL		P
+UniProtKB	Q9Y6N9	USH1C	involved_in	GO:0050953	sensory perception of light stimulus	ECO:0000315	IMP	PMID:11398101		9606	HGNC-UCL		P
+UniProtKB	Q9Y6N9	USH1C	involved_in	GO:0050957	equilibrioception	ECO:0000315	IMP	PMID:10973247		9606	HGNC-UCL		P
+ComplexPortal	CPX-1062	abeta-40-42_human	involved_in	GO:0007611	learning or memory	ECO:0000314	IDA	PMID:18568035		9606	ARUK-UCL		P
+ComplexPortal	CPX-1070	abeta-42_human	involved_in	GO:0007611	learning or memory	ECO:0000314	IDA	PMID:18568035		9606	ARUK-UCL		P
+ComplexPortal	CPX-168	3xchrna4-2xchrnb2_human	enables	GO:0022848	acetylcholine-gated monoatomic cation-selective channel activity	ECO:0000314	IDA	PMID:25869137		9606	ComplexPortal		F
+ComplexPortal	CPX-187	chrna3-chrna5-chrnb2_human	enables	GO:0022848	acetylcholine-gated monoatomic cation-selective channel activity	ECO:0000314	IDA	PMID:8663494		9606	ComplexPortal		F
+ComplexPortal	CPX-210	chrna3-chrna5-chrnb4_human	enables	GO:0022848	acetylcholine-gated monoatomic cation-selective channel activity	ECO:0000314	IDA	PMID:8663494		9606	ComplexPortal		F
+ComplexPortal	CPX-2170	chrna2-chrnb2_human	enables	GO:0022848	acetylcholine-gated monoatomic cation-selective channel activity	ECO:0000314	IDA	PMID:22309577		9606	ComplexPortal		F
+ComplexPortal	CPX-2171	chrna9-chrna10_human	enables	GO:0022848	acetylcholine-gated monoatomic cation-selective channel activity	ECO:0000314	IDA	PMID:11752216		9606	ComplexPortal		F
+ComplexPortal	CPX-2180	2xchrna4-3xchrnb2_human	enables	GO:0022848	acetylcholine-gated monoatomic cation-selective channel activity	ECO:0000314	IDA	PMID:25869137		9606	ComplexPortal		F
+ComplexPortal	CPX-2190	chrna2-chrnb4_human	enables	GO:0022848	acetylcholine-gated monoatomic cation-selective channel activity	ECO:0000314	IDA	PMID:22309577		9606	ComplexPortal		F
+ComplexPortal	CPX-2193	chrna3-chrnb2_human	enables	GO:0022848	acetylcholine-gated monoatomic cation-selective channel activity	ECO:0000314	IDA	PMID:11044728		9606	ComplexPortal		F
+ComplexPortal	CPX-2200	chrna3-chrnb4_human	enables	GO:0022848	acetylcholine-gated monoatomic cation-selective channel activity	ECO:0000314	IDA	PMID:22309577		9606	ComplexPortal		F
+ComplexPortal	CPX-2203	chrna4-chrnb4_human	enables	GO:0022848	acetylcholine-gated monoatomic cation-selective channel activity	ECO:0000314	IDA	PMID:22309577		9606	ComplexPortal		F
+ComplexPortal	CPX-226	chrna9_human	enables	GO:0022848	acetylcholine-gated monoatomic cation-selective channel activity	ECO:0000314	IDA	PMID:25282151		9606	ComplexPortal		F
+ComplexPortal	CPX-236	chrna7_human	enables	GO:0022848	acetylcholine-gated monoatomic cation-selective channel activity	ECO:0000314	IDA	PMID:25002271		9606	ComplexPortal		F
+ComplexPortal	CPX-240	chrna7-beta2_human	enables	GO:0022848	acetylcholine-gated monoatomic cation-selective channel activity	ECO:0000314	IDA	PMID:25002271		9606	ComplexPortal		F
+ComplexPortal	CPX-7841	glra1-glrb_human	enables	GO:0016934	extracellularly glycine-gated chloride channel activity	ECO:0000314	IDA	PMID:35526563		9606	ComplexPortal		F
