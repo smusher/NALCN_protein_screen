@@ -8,6 +8,7 @@ hpa_tissue = read_tsv("expression_datasets/hpa_tissue_consensus.tsv")
 
 hpa_cells = read_tsv("expression_datasets/hpa_single_cell_type.tsv")
 
+# This file can be downloaded from https://atlas.fredhutch.org/data/bbi/descartes/human_gtex/downloads/FCA_RNA_supp_files/gene_expression_celltype.txt
 cao_2020 = read_csv("expression_datasets/cao_2020_single_cell_type.csv") %>%
   separate(RowID, into = c("Ensembl_id", NA), sep = "\\.") %>%
   left_join(id_mapping)
