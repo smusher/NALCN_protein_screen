@@ -13,10 +13,6 @@ cao_2020 = read_csv("expression_datasets/cao_2020_single_cell_type.csv") %>%
   separate(RowID, into = c("Ensembl_id", NA), sep = "\\.") %>%
   left_join(id_mapping)
 
-allen_smartseq = read_csv("expression_datasets/allen_brain_smartseq_medians.csv") %>%
-  rename(`Mouse gene` = "feature") %>%
-  left_join(id_mapping)
-
 allen_10x = read_csv("expression_datasets/allen_brain_10x_medians.csv") %>%
   rename(`Mouse gene` = "feature") %>%
   left_join(id_mapping)
@@ -132,34 +128,6 @@ cao_df %>%
   scale_y_log10(labels = label_number()) +
   scale_fill_distiller(palette = "RdYlBu")
 
-allen_smartseq %>%
-  select(-Ensembl_id, -`Mouse gene`) %>%
-  filter(`Gene name` %in% c("NALCN", "UNC79", "UNC80", "FAM155A")) %>%
-  pivot_longer(-`Gene name`, names_to = "Cell type", values_to = "nTPM") %>%
-  pivot_wider(names_from = `Gene name`, values_from = nTPM) %>%
-  group_by(`Cell type`) %>%
-  mutate(Complex_nTPM = sum((2^NALCN)-1, (2^UNC79)-1, (2^UNC80)-1, (2^FAM155A)-1)) %>%
-  left_join(allen_smartseq %>%
-              select(-Ensembl_id,-`Mouse gene`) %>%
-              pivot_longer(-`Gene name`, names_to = "Cell type", values_to = "nTPM") %>%
-              mutate(nTPM = 2^nTPM)
-  ) -> allen_smartseq_df
-
-allen_smartseq_df %>%
-  group_by(`Gene name`) %>%
-  summarise(across(c(NALCN,UNC79,UNC80,FAM155A,Complex_nTPM), ~ cor(.x, nTPM, method = "spearman", use = "complete.obs"), .names = "{.col}_scc")) %>%
-  left_join(allen_smartseq_df) -> allen_smartseq_df
-
-allen_smartseq_df %>%
-  filter(!(`Gene name`%in% c("NALCN", "UNC79", "UNC80", "FAM155A")), `Gene name` %in% hit_list) %>%
-  ggplot(aes(x = UNC80, y = nTPM, fill = UNC80_scc)) +
-  geom_point(shape = 21, size = 3) +
-  facet_wrap(vars(`Gene name`), scales = "free") +
-  theme_classic() +
-  scale_x_log10(labels = label_number()) +
-  scale_y_log10(labels = label_number()) +
-  scale_fill_distiller(palette = "RdYlBu")
-
 allen_10x %>%
   select(-Ensembl_id, -`Mouse gene`) %>%
   filter(`Gene name` %in% c("NALCN", "UNC79", "UNC80", "FAM155A")) %>%
@@ -192,7 +160,6 @@ combined_expression = bind_rows(
   tissue_df %>% mutate(source = "HPA_tissue"),
   cells_df %>% mutate(source = "HPA_cells"),
   cao_df %>% mutate(source = "cao_2020"),
-  allen_smartseq_df %>% mutate(source = "allen_smartseq"),
   allen_10x_df %>% mutate(source = "allen_10x")
 ) %>%
   select(`Gene name`, ends_with("scc"), source) %>%
@@ -223,7 +190,7 @@ bind_rows(
   tissue_df %>% mutate(source = "HPA_tissue"),
   cells_df %>% mutate(source = "HPA_cells"),
   cao_df %>% mutate(source = "cao_2020"),
-  allen_10x_df %>% mutate(source = "allen_10x") %>% filter(UNC80 >= 5)
+  allen_10x_df %>% mutate(source = "allen_10x")
 ) %>%
   filter(`Gene name` %in% c("SNAP25", "UBA1"))  %>%
   group_by(source, `Gene name`) %>%
@@ -312,7 +279,7 @@ ggplot(control_compare, aes(x = scc, after_stat(density))) +
 neuronal_compare = combined_expression %>%
   select(-Complex_nTPM_scc, -FAM155B_scc) %>%
   pivot_longer(ends_with("scc"), names_to = "core_complex_gene", values_to = "scc") %>%
-  filter(`Gene name` %in% c(essential_list, neuronal_list), source != "allen_smartseq")
+  filter(`Gene name` %in% c(essential_list, neuronal_list))
 
 ggplot(neuronal_compare %>% filter(`Gene name` %in% essential_list), aes(x = scc, after_stat(density))) +
   geom_freqpoly(bins = 31) +
@@ -323,7 +290,6 @@ ggplot(neuronal_compare %>% filter(`Gene name` %in% essential_list), aes(x = scc
 
 neuronal_compare %>%
   drop_na() %>%
-  filter(source != "allen_10x") %>%
   mutate(list = case_when(`Gene name` %in% essential_list ~ "essential", `Gene name` %in% neuronal_list ~ "neuronal")) %>%
   group_by(list) %>%
   summarise(median_scc = median(scc))
