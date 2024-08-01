@@ -1,5 +1,7 @@
 library(tidyverse)
 
+# The eggnog_eukaryotic_ogs.tsv file can be downloaded from http://eggnog5.embl.de/download/eggnog_5.0/per_tax_level/2759/2759_members.tsv.gz
+
 members = read_tsv("coevolution_datasets/eggnog_eukaryotic_ogs.tsv", col_names = c(NA, "eggnog_og_id", NA, NA, "contents"))
 list = read_tsv("coevolution_datasets/eggnog_uniprot_mapping.tsv", col_names = c("uniprot_gene_id", "eggnog_og_id"))
 
