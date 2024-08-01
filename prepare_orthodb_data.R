@@ -1,6 +1,24 @@
 library(tidyverse)
 library(dbplyr)
 
+# Data to generate the orthodb_data SQL database used in the below analysis can be downloaded as flat datafiles from https://v10-1.orthodb.org/?page=filelist and processed as written below.
+con = DBI::dbConnect(RSQLite::SQLite(), dbname = "coevolution_datasets/orthodb_data")
+DBI::dbWriteTable(con, name="genes", value="odb10v1_genes.tab", 
+                  row.names=FALSE, header=FALSE, sep = "\t")
+DBI::dbWriteTable(con, name="OGs", value="odb10v1_OGs.tab", 
+                  row.names=FALSE, header=FALSE, sep = "\t")
+DBI::dbWriteTable(con, name="OG2genes", value="odb10v1_OG2genes.tab", 
+                  row.names=FALSE, header=FALSE, sep = "\t")
+DBI::dbWriteTable(con, name="species", value="odb10v1_species.tab", 
+                  row.names=FALSE, header=FALSE, sep = "\t")
+DBI::dbWriteTable(con, name="level2species", value="odb10v1_level2species.tab", 
+                  row.names=FALSE, header=FALSE, sep = "\t")
+DBI::dbWriteTable(con, name="xrefs", value="odb10v1_OG_xrefs.tab", 
+                  row.names=FALSE, header=FALSE, sep = "\t")
+DBI::dbWriteTable(con, name="gene_xrefs", value="odb10v1_gene_xrefs.tab", 
+                  row.names=FALSE, header=FALSE, sep = "\t")
+
+# Once generated, the script below caluclates the coevolution barcodes and saes them into the coevolution_data folder
 orthodb_con = DBI::dbConnect(RSQLite::SQLite(), dbname = "coevolution_datasets/orthodb_data")
 
 species = tbl(orthodb_con, "species")
